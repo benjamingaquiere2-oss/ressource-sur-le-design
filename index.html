@@ -12,12 +12,12 @@
   <div class="wrap">
     <a href="index.html" class="brand">
       <span class="brand-mark">A/D</span>
-      Archive
+      <span>Archive<span class="brand-sub">Ligne Design</span></span>
     </a>
     <nav class="main-nav" id="main-nav">
-      <a href="index.html" class="active"><span class="idx">01</span>Accueil</a>
-      <a href="references.html"><span class="idx">02</span>Références</a>
-      <a href="ressources.html"><span class="idx">03</span>Ressources</a>
+      <a href="index.html" class="active"><span class="dot"></span>Accueil</a>
+      <a href="references.html" data-line="ref"><span class="dot"></span>Références</a>
+      <a href="ressources.html" data-line="res"><span class="dot"></span>Ressources</a>
     </nav>
     <button class="nav-toggle" aria-label="Ouvrir la navigation" aria-expanded="false">☰</button>
   </div>
@@ -28,57 +28,56 @@
     <div class="wrap hero-grid">
       <div>
         <span class="eyebrow">Fonds — 001 / archive personnelle</span>
-        <h1>Un classeur<br>pour le <em>design</em>.</h1>
-        <p>Un lieu pour ranger, trier et retrouver ce qui nourrit mon travail : des références visuelles classées par catégorie et par style, et une sélection de sites ressources — typographies, mockups, images.</p>
+        <h1>Un classeur<br>pour le <span>design</span>.</h1>
+        <p>Un lieu pour ranger, trier et retrouver ce qui nourrit mon travail : des références visuelles classées par catégorie, et une sélection de sites ressources — typographies, mockups, images.</p>
       </div>
-      <div class="stamp">
-        <div class="stamp-inner">Archive<br>de design<br>— établi 2026</div>
+      <div class="sign-plate">
+        <span class="arrow">&rarr;</span>
+        <strong>Archive<br>de design<br>établi 2026</strong>
       </div>
     </div>
   </section>
 
   <section class="wrap">
-    <div class="drawers">
-      <a href="references.html" class="drawer">
-        <span class="idx-line">TIROIR 02</span>
+    <div class="tiles-main">
+      <a href="references.html" class="tile-main" data-line="ref">
+        <span class="idx-line">Tiroir 02</span>
         <h3>Références</h3>
-        <p>Une grille de fiches à filtrer par catégorie, par style ou par mot-clé.</p>
-        <span class="go">Ouvrir le tiroir →</span>
+        <p>Une grille de fiches à filtrer par catégorie : objet, espace, graphisme, social, arts plastique, artisanat.</p>
+        <span class="go"><span class="roundel">&rarr;</span> Ouvrir</span>
       </a>
-      <a href="ressources.html" class="drawer">
-        <span class="idx-line">TIROIR 03</span>
+      <a href="ressources.html" class="tile-main" data-line="res">
+        <span class="idx-line">Tiroir 03</span>
         <h3>Ressources</h3>
         <p>Typographies libres, mockups, banques d'images et autres outils utiles.</p>
-        <span class="go">Ouvrir le tiroir →</span>
+        <span class="go"><span class="roundel">&rarr;</span> Ouvrir</span>
       </a>
     </div>
   </section>
 
   <section class="wrap about">
-    <div>
-      <span class="eyebrow">Mode d'emploi</span>
-      <h2>Comment ranger une fiche</h2>
-    </div>
-    <div class="about-list">
-      <div class="about-item">
-        <span class="n">01</span>
+    <span class="eyebrow">Mode d'emploi</span>
+    <h2>Comment ranger une fiche</h2>
+    <div class="line-diagram">
+      <div class="stop">
+        <span class="roundel">01</span>
         <div>
           <h4>Trouver une référence</h4>
-          <p>Un site, une affiche, une identité qui vous marque : elle a sa place dans le tiroir Références.</p>
+          <p>Un site, une affiche, un objet, un espace qui vous marque : il a sa place dans le tiroir Références.</p>
         </div>
       </div>
-      <div class="about-item">
-        <span class="n">02</span>
+      <div class="stop">
+        <span class="roundel">02</span>
         <div>
           <h4>La classer</h4>
-          <p>Ouvrez <code>js/script.js</code> et ajoutez une entrée dans le tableau <code>REFERENCES</code>, avec sa catégorie et ses styles.</p>
+          <p>Ouvrez <code>js/script.js</code> et ajoutez une entrée dans le tableau <code>REFERENCES</code>, avec sa catégorie et ses images.</p>
         </div>
       </div>
-      <div class="about-item">
-        <span class="n">03</span>
+      <div class="stop">
+        <span class="roundel">03</span>
         <div>
           <h4>La retrouver</h4>
-          <p>Les filtres se construisent automatiquement à partir de vos données : rien d'autre à configurer.</p>
+          <p>Les pastilles de filtre correspondent aux 6 catégories fixes : rien d'autre à configurer.</p>
         </div>
       </div>
     </div>
