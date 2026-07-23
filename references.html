@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Références — Archive</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="references">
+
+<header class="site-header">
+  <div class="wrap">
+    <a href="index.html" class="brand">
+      <span class="brand-mark">A/D</span>
+      Archive
+    </a>
+    <nav class="main-nav" id="main-nav">
+      <a href="index.html"><span class="idx">01</span>Accueil</a>
+      <a href="references.html" class="active"><span class="idx">02</span>Références</a>
+      <a href="ressources.html"><span class="idx">03</span>Ressources</a>
+    </nav>
+    <button class="nav-toggle" aria-label="Ouvrir la navigation" aria-expanded="false">☰</button>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <section class="page-head">
+      <span class="eyebrow">Tiroir 02</span>
+      <h1>Références de design</h1>
+      <p>Une sélection de sites, d'identités et de mises en page qui servent de repères. Filtrez par catégorie, par style, ou cherchez un mot-clé.</p>
+    </section>
+
+    <div class="filter-panel">
+      <div class="filter-row">
+        <span class="filter-label">Catégorie</span>
+        <div class="chip-group" data-filter-cat></div>
+      </div>
+      <div class="filter-row">
+        <span class="filter-label">Style</span>
+        <div class="chip-group" data-filter-style></div>
+      </div>
+      <div class="filter-row">
+        <span class="filter-label">Recherche</span>
+        <input type="text" class="search-input" data-search placeholder="Chercher un titre ou un mot-clé…">
+      </div>
+    </div>
+
+    <p class="result-count" data-result-count></p>
+
+    <div class="card-grid" data-ref-grid></div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Archive de design — usage personnel</span>
+    <span>© <span data-year></span></span>
+  </div>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
