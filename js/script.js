@@ -18,7 +18,7 @@ const CATEGORIES = {
   "ESPACE":         "#1E72EF",
   "GRAPHISME":      "#FC4FAC",
   "SOCIAL":         "#FF6A00",
-  "ARTS PLASTIQUE": "#58DF55",
+  "ARTS PLASTIQUES": "#58DF55",
   "ARTISANAT":      "#FA3C2F"
 };
 
@@ -36,7 +36,7 @@ const CATEGORIES = {
 const REFERENCES = [
   {
     id: "ref-001",
-    titre: "Studio Moderne",
+    titre: "Super Terrain",
     description: "Portfolio d'un studio graphique, grille stricte et typographie XXL.",
     categorie: "GRAPHISME",
     images: [],
