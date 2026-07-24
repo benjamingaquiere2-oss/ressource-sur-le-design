@@ -90,11 +90,6 @@ const REFERENCES = [
     images: [],
     lien: "https://collectifgru.fr"
   },
-
-  /* ---- Fiches vides à compléter (ref-008 à ref-080) ----
-     Remplissez titre / description / lien, et ajustez "categorie" si besoin
-     (une des 6 clés de CATEGORIES). La répartition ci-dessous tourne déjà
-     sur les 6 catégories à titre indicatif, changez-la librement. ---- */
   {
     id: "ref-008",
     titre: "Matalie Crasset",
