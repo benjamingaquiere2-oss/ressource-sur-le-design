@@ -40,7 +40,7 @@ const REFERENCES = [
     description: "Travail graphique allant de l'édition, au digital en passant par la création d'identités visuelles. Leur style est très coloré avec des couleurs vives presque fluos !",
     categorie: "GRAPHISME",
     images: [],
-    lien: "superterrain.fr"
+    lien: "https://superterrain.fr"
   },
   {
     id: "ref-002",
@@ -48,7 +48,7 @@ const REFERENCES = [
     description: "Graphiste, motion designer, illustratrice, typographe, ... Polymathe, elle a notamment fait la charte graphique et le site de l'ISDAT.",
     categorie: "GRAPHISME",
     images: [],
-    lien: "dianeboivinatelier.com"
+    lien: "https://dianeboivinatelier.com"
   },
   {
     id: "ref-003",
@@ -64,32 +64,622 @@ const REFERENCES = [
     description: "Design industriel, design de fiction, upcycling, ... Pour Alexandre, le travail de la matière semble être le point essentiel à travailler pour connecter l'usager et la production.",
     categorie: "OBJET",
     images: [],
-    lien: "alexandreechasseriau.com"
-  }
+    lien: "https://alexandreechasseriau.com"
+  },
   {
     id: "ref-005",
     titre: "Atelier Baudelaire",
     description: "L'Atelier Baudelaire est un studio de recherche et de création qui relie le design graphisme et le volume, les domaines de la culture et de l'innovation.",
     categorie: "GRAPHISME",
     images: [],
-    lien: "atelierbaudelaire.com"
-  }
+    lien: "https://atelierbaudelaire.com"
+  },
   {
     id: "ref-006",
     titre: "Roxane Andrès",
     description: "Roxane s'ancre dans une démarche qui relie les gens et son design. Des formes organiques et un design social formant des projets autour de grandes étapes de la vie d'un usager.",
     categorie: "OBJET",
     images: [],
-    lien: "roxaneandres.com"
-  }
+    lien: "https://roxaneandres.com"
+  },
   {
     id: "ref-007",
     titre: "Collectif Gru",
     description: "Scénographies et architectures, le Collectif Gru crée de véritables espaces vivants, souvent éphémères, transportant le visiteur.",
     categorie: "ESPACE",
     images: [],
-    lien: "collectifgru.fr"
-  }
+    lien: "https://collectifgru.fr"
+  },
+
+  /* ---- Fiches vides à compléter (ref-008 à ref-080) ----
+     Remplissez titre / description / lien, et ajustez "categorie" si besoin
+     (une des 6 clés de CATEGORIES). La répartition ci-dessous tourne déjà
+     sur les 6 catégories à titre indicatif, changez-la librement. ---- */
+  {
+    id: "ref-008",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-009",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-010",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-011",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-012",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-013",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-014",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-015",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-016",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-017",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-018",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-019",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-020",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-021",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-022",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-023",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-024",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-025",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-026",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-027",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-028",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-029",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-030",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-031",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-032",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-033",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-034",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-035",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-036",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-037",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-038",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-039",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-040",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-041",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-042",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-043",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-044",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-045",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-046",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-047",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-048",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-049",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-050",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-051",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-052",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-053",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-054",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-055",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-056",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-057",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-058",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-059",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-060",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-061",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-062",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-063",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-064",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-065",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-066",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-067",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-068",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-069",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-070",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-071",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-072",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-073",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-074",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-075",
+    titre: "",
+    description: "",
+    categorie: "ESPACE",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-076",
+    titre: "",
+    description: "",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-077",
+    titre: "",
+    description: "",
+    categorie: "SOCIAL",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-078",
+    titre: "",
+    description: "",
+    categorie: "ARTS PLASTIQUES",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-079",
+    titre: "",
+    description: "",
+    categorie: "ARTISANAT",
+    images: [],
+    lien: ""
+  },
+  {
+    id: "ref-080",
+    titre: "",
+    description: "",
+    categorie: "OBJET",
+    images: [],
+    lien: ""
+  },
+
   // ➜ Ajoutez vos propres fiches en copiant un bloc { ... } ci-dessus,
   //   séparé par une virgule. "categorie" doit être une des 6 clés de CATEGORIES.
 ];
