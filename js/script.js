@@ -791,11 +791,12 @@ function initReferencesPage() {
 
   function render() {
     const filtered = REFERENCES.filter((r) => {
+      const isFilled = r.titre && r.titre.trim() !== "";
       const matchCat = activeCat === "TOUTES" || r.categorie === activeCat;
       const matchQuery = !query ||
         r.titre.toLowerCase().includes(query) ||
         r.description.toLowerCase().includes(query);
-      return matchCat && matchQuery;
+      return isFilled && matchCat && matchQuery;
     });
 
     if (countEl) {
