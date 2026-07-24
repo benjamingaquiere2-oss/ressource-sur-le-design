@@ -37,10 +37,10 @@ const REFERENCES = [
   {
     id: "ref-001",
     titre: "Super Terrain",
-    description: "Portfolio d'un studio graphique, grille stricte et typographie XXL.",
+    description: "Travail graphique allant de l'édition, au digital en passant par la création d'identités visuelles. Leur style est très coloré avec des couleurs vives presque fluos !",
     categorie: "GRAPHISME",
     images: [],
-    lien: "https://example.com"
+    lien: "https://www.superterrain.fr/?lang=fr"
   },
   {
     id: "ref-002",
