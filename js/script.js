@@ -40,23 +40,23 @@ const REFERENCES = [
     description: "Travail graphique allant de l'édition, au digital en passant par la création d'identités visuelles. Leur style est très coloré avec des couleurs vives presque fluos !",
     categorie: "GRAPHISME",
     images: [],
-    lien: "https://www.superterrain.fr/?lang=fr"
+    lien: "superterrain.fr"
   },
   {
     id: "ref-002",
-    titre: "Festival Chromatique",
-    description: "Identité visuelle d'un festival, système de couleurs vives.",
-    categorie: "SOCIAL",
+    titre: "Diane Bovin atelier",
+    description: "Graphiste, motion designer, illustratrice, typographe, ... Polymathe, elle a notamment fait la charte graphique et le site de l'ISDAT.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: "https://example.com"
+    lien: "dianeboivinatelier.com"
   },
   {
     id: "ref-003",
-    titre: "Chaise Empilable 04",
-    description: "Design produit, structure tubulaire et assise moulée.",
-    categorie: "OBJET",
+    titre: "Lucile Viaud",
+    description: "Design de produit et artisanat du verre autour du concept de géoverrerie :  Idée que le verre pourrait refléter les caractères naturels et humains de la région dont les matières premières qui le composent sont issues.",
+    categorie: "OBJET" "ARTISANAT",
     images: [],
-    lien: "https://example.com"
+    lien: "https://atelierlucileviaud.com/"
   },
   {
     id: "ref-004",
