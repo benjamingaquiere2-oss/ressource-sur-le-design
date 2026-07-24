@@ -54,17 +54,41 @@ const REFERENCES = [
     id: "ref-003",
     titre: "Lucile Viaud",
     description: "Design de produit et artisanat du verre autour du concept de géoverrerie :  Idée que le verre pourrait refléter les caractères naturels et humains de la région dont les matières premières qui le composent sont issues.",
-    categorie: "OBJET" "ARTISANAT",
+    categorie: "ARTISANAT",
     images: [],
     lien: "https://atelierlucileviaud.com/"
   },
   {
     id: "ref-004",
-    titre: "Pavillon Nord",
-    description: "Scénographie d'exposition, parcours et signalétique intérieure.",
+    titre: "Alexandre Echasseriau",
+    description: "Design industriel, design de fiction, upcycling, ... Pour Alexandre, le travail de la matière semble être le point essentiel à travailler pour connecter l'usager et la production.",
+    categorie: "OBJET",
+    images: [],
+    lien: "alexandreechasseriau.com"
+  }
+  {
+    id: "ref-005",
+    titre: "Atelier Baudelaire",
+    description: "L'Atelier Baudelaire est un studio de recherche et de création qui relie le design graphisme et le volume, les domaines de la culture et de l'innovation.",
+    categorie: "GRAPHISME",
+    images: [],
+    lien: "atelierbaudelaire.com"
+  }
+  {
+    id: "ref-006",
+    titre: "Roxane Andrès",
+    description: "Roxane s'ancre dans une démarche qui relie les gens et son design. Des formes organiques et un design social formant des projets autour de grandes étapes de la vie d'un usager.",
+    categorie: "OBJET",
+    images: [],
+    lien: "roxaneandres.com"
+  }
+  {
+    id: "ref-007",
+    titre: "Collectif Gru",
+    description: "Scénographies et architectures, le Collectif Gru crée de véritables espaces vivants, souvent éphémères, transportant le visiteur.",
     categorie: "ESPACE",
     images: [],
-    lien: "https://example.com"
+    lien: "collectifgru.fr"
   }
   // ➜ Ajoutez vos propres fiches en copiant un bloc { ... } ci-dessus,
   //   séparé par une virgule. "categorie" doit être une des 6 clés de CATEGORIES.
