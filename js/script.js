@@ -100,35 +100,35 @@ const REFERENCES = [
   },
   {
     id: "ref-009",
-    titre: "",
-    description: "",
-    categorie: "ESPACE",
+    titre: "Mathieu Lehanneur",
+    description: "Entre oeuvres d'arts et design, Mathieu Lehanneur crée un design épuré et sans superflu. Il imagine aussi des objet qui ne sont pas seulement esthétiquement plaisant mais qui sont des solutions.",
+    categorie: "OBJET","ARTS PLASTIQUES",
     images: [],
-    lien: ""
+    lien: "https://www.mathieulehanneur.fr/works"
   },
   {
     id: "ref-010",
-    titre: "",
-    description: "",
+    titre: "The Shelf Compagny",
+    description: "De gros travaux d'éditions sont réunies sur leur site internet permettant de voir de la data visualisation, des illustrations et de la composition de livres et magazines.",
     categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://company.theshelf.fr/"
   },
   {
     id: "ref-011",
-    titre: "",
-    description: "",
-    categorie: "SOCIAL",
+    titre: "Filloque & Zammie 1 & Cie",
+    description: "Ils forment un groupe d'artistes plasticien.ne.s utilisant des techniques traditionnelles comme le collage, le crayonnage ou une écriture plus manuscrite.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://www.filloque-zammit.net/"
   },
   {
     id: "ref-012",
-    titre: "",
-    description: "",
-    categorie: "ARTS PLASTIQUES",
+    titre: "Formes Vives",
+    description: "Même si ce groupe n'hexiste plus, leur travail reste majeur sur la scène française de l'identité visuelle. Leurs nombreux travaux vont plus loin que du graphisme et sont travaillés au travers de plusieurs outils et techniques.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://www.formes-vives.org/images/"
   },
   {
     id: "ref-013",
