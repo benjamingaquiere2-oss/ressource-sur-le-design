@@ -99,7 +99,7 @@ const REFERENCES = [
     id: "ref-008",
     titre: "Matalie Crasset",
     description: "Figure emblématique du design français, elle a un travail très coloré et ludique. Principalement designer d'objet, son travail est maintenant un mélange entre les arts plastique, le design et une pratique sociale forte.",
-    categorie: "OBJET", "ESPACE",
+    categorie: "OBJET",
     images: [],
     lien: "https://www.matalicrasset.com/fr"
   },
