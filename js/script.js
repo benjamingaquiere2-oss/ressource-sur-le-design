@@ -116,7 +116,7 @@ const REFERENCES = [
   },
   {
     id: "ref-011",
-    titre: "Filloque & Zammie 1 & Cie",
+    titre: "Filloque & Zammie & Cie",
     description: "Ils forment un groupe d'artistes plasticien.ne.s utilisant des techniques traditionnelles comme le collage, le crayonnage ou une écriture plus manuscrite.",
     categorie: "GRAPHISME",
     images: [],
@@ -132,27 +132,27 @@ const REFERENCES = [
   },
   {
     id: "ref-013",
-    titre: "",
-    description: "",
-    categorie: "ARTISANAT",
+    titre: "Studio Françoois Azembourg",
+    description: "Travail des objets d'une manière très sculturale avec des productions bordant l'oeuvre d'art. François Azembourg est notamment connu pour ces vases Douglas.",
+    categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://azambourg.com/"
   },
   {
     id: "ref-014",
-    titre: "",
-    description: "",
-    categorie: "OBJET",
+    titre: "Fanette Mellier",
+    description: "Designer graphique, elle fait de gros travaux d'édition avec des systèmes de lecture innovants.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://fanettemellier.com/"
   },
   {
     id: "ref-015",
-    titre: "",
-    description: "",
-    categorie: "ESPACE",
+    titre: "Pinaffo & Pluvinage",
+    description: "De très gros travaux d'installations (généralement en espace muséal), mélangeant beaucoup de couleurs et de matière (gros travail du bois).",
+    categorie: "ARTS PLASTIQUES",
     images: [],
-    lien: ""
+    lien: "https://pinaffo-pluvinage.com/"
   },
   {
     id: "ref-016",
