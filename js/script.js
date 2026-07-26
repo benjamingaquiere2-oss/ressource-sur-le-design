@@ -40,7 +40,7 @@ const REFERENCES = [
     titre: "Super Terrain",
     description: "Travail graphique allant de l'édition, au digital en passant par la création d'identités visuelles. Leur style est très coloré avec des couleurs vives presque fluos !",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-001-1/640/480", "https://picsum.photos/seed/ref-001-2/640/480", "https://picsum.photos/seed/ref-001-3/640/480"],
+    images: ["https://www.superterrain.fr/media/pages/nuits-sonores-2024/efb28f66b1-1729678422/superterrain-2024-ns24-1920x.jpg", "https://www.superterrain.fr/media/pages/super-flux-24/45b672544a-1742210475/super-flux-24-super-terrain-1920x.jpg", "https://www.superterrain.fr/media/pages/theatre-joliette/72c0a49000-1739439721/joliette-23-24-super-terrain-0-1920x.jpg"],
     lien: "https://superterrain.fr"
   },
   {
