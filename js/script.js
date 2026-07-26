@@ -19,7 +19,8 @@ const CATEGORIES = {
   "GRAPHISME":      "#FC4FAC",
   "SOCIAL":         "#FF6A00",
   "ARTS PLASTIQUES": "#58DF55",
-  "ARTISANAT":      "#FA3C2F"
+  "ARTISANAT":      "#FA3C2F",
+  "ILLUSTRATION":   "#8B5CF6"
 };
 
 /**
@@ -39,7 +40,7 @@ const REFERENCES = [
     titre: "Super Terrain",
     description: "Travail graphique allant de l'édition, au digital en passant par la création d'identités visuelles. Leur style est très coloré avec des couleurs vives presque fluos !",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-001-1/640/480", "https://picsum.photos/seed/ref-001-2/640/480", "https://picsum.photos/seed/ref-001-3/640/480"],
     lien: "https://superterrain.fr"
   },
   {
@@ -47,7 +48,7 @@ const REFERENCES = [
     titre: "Diane Bovin atelier",
     description: "Graphiste, motion designer, illustratrice, typographe, ... Polymathe, elle a notamment fait la charte graphique et le site de l'ISDAT.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-002-1/640/480", "https://picsum.photos/seed/ref-002-2/640/480", "https://picsum.photos/seed/ref-002-3/640/480"],
     lien: "https://dianeboivinatelier.com"
   },
   {
@@ -55,7 +56,7 @@ const REFERENCES = [
     titre: "Lucile Viaud",
     description: "Design de produit et artisanat du verre autour du concept de géoverrerie :  Idée que le verre pourrait refléter les caractères naturels et humains de la région dont les matières premières qui le composent sont issues.",
     categorie: "ARTISANAT",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-003-1/640/480", "https://picsum.photos/seed/ref-003-2/640/480", "https://picsum.photos/seed/ref-003-3/640/480"],
     lien: "https://atelierlucileviaud.com/"
   },
   {
@@ -63,7 +64,7 @@ const REFERENCES = [
     titre: "Alexandre Echasseriau",
     description: "Design industriel, design de fiction, upcycling, ... Pour Alexandre, le travail de la matière semble être le point essentiel à travailler pour connecter l'usager et la production.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-004-1/640/480", "https://picsum.photos/seed/ref-004-2/640/480", "https://picsum.photos/seed/ref-004-3/640/480"],
     lien: "https://alexandreechasseriau.com"
   },
   {
@@ -71,7 +72,7 @@ const REFERENCES = [
     titre: "Atelier Baudelaire",
     description: "L'Atelier Baudelaire est un studio de recherche et de création qui relie le design graphisme et le volume, les domaines de la culture et de l'innovation.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-005-1/640/480", "https://picsum.photos/seed/ref-005-2/640/480", "https://picsum.photos/seed/ref-005-3/640/480"],
     lien: "https://atelierbaudelaire.com"
   },
   {
@@ -79,7 +80,7 @@ const REFERENCES = [
     titre: "Roxane Andrès",
     description: "Roxane s'ancre dans une démarche qui relie les gens et son design. Des formes organiques et un design social formant des projets autour de grandes étapes de la vie d'un usager.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-006-1/640/480", "https://picsum.photos/seed/ref-006-2/640/480", "https://picsum.photos/seed/ref-006-3/640/480"],
     lien: "https://roxaneandres.com"
   },
   {
@@ -87,7 +88,7 @@ const REFERENCES = [
     titre: "Collectif Gru",
     description: "Scénographies et architectures, le Collectif Gru crée de véritables espaces vivants, souvent éphémères, transportant le visiteur.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-007-1/640/480", "https://picsum.photos/seed/ref-007-2/640/480", "https://picsum.photos/seed/ref-007-3/640/480"],
     lien: "https://collectifgru.fr"
   },
   {
@@ -95,7 +96,7 @@ const REFERENCES = [
     titre: "Matali Crasset",
     description: "Figure emblématique du design français, elle a un travail très coloré et ludique. Principalement designer d'objet, son travail est maintenant un mélange entre les arts plastique, le design et une pratique sociale forte.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-008-1/640/480", "https://picsum.photos/seed/ref-008-2/640/480", "https://picsum.photos/seed/ref-008-3/640/480"],
     lien: "https://www.matalicrasset.com/fr"
   },
   {
@@ -103,7 +104,7 @@ const REFERENCES = [
     titre: "Mathieu Lehanneur",
     description: "Entre oeuvres d'arts et design, Mathieu Lehanneur crée un design épuré et sans superflu. Il imagine aussi des objet qui ne sont pas seulement esthétiquement plaisant mais qui sont des solutions.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-009-1/640/480", "https://picsum.photos/seed/ref-009-2/640/480", "https://picsum.photos/seed/ref-009-3/640/480"],
     lien: "https://www.mathieulehanneur.fr/works"
   },
   {
@@ -111,7 +112,7 @@ const REFERENCES = [
     titre: "The Shelf Compagny",
     description: "De gros travaux d'éditions sont réunies sur leur site internet permettant de voir de la data visualisation, des illustrations et de la composition de livres et magazines.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-010-1/640/480", "https://picsum.photos/seed/ref-010-2/640/480", "https://picsum.photos/seed/ref-010-3/640/480"],
     lien: "https://company.theshelf.fr/"
   },
   {
@@ -119,7 +120,7 @@ const REFERENCES = [
     titre: "Filloque & Zammie & Cie",
     description: "Ils forment un groupe d'artistes plasticien.ne.s utilisant des techniques traditionnelles comme le collage, le crayonnage ou une écriture plus manuscrite.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-011-1/640/480", "https://picsum.photos/seed/ref-011-2/640/480", "https://picsum.photos/seed/ref-011-3/640/480"],
     lien: "https://www.filloque-zammit.net/"
   },
   {
@@ -127,7 +128,7 @@ const REFERENCES = [
     titre: "Formes Vives",
     description: "Même si ce groupe n'hexiste plus, leur travail reste majeur sur la scène française de l'identité visuelle. Leurs nombreux travaux vont plus loin que du graphisme et sont travaillés au travers de plusieurs outils et techniques.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-012-1/640/480", "https://picsum.photos/seed/ref-012-2/640/480", "https://picsum.photos/seed/ref-012-3/640/480"],
     lien: "https://www.formes-vives.org/images/"
   },
   {
@@ -135,7 +136,7 @@ const REFERENCES = [
     titre: "Studio Françoois Azembourg",
     description: "Travail des objets d'une manière très sculturale avec des productions bordant l'oeuvre d'art. François Azembourg est notamment connu pour ces vases Douglas.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-013-1/640/480", "https://picsum.photos/seed/ref-013-2/640/480", "https://picsum.photos/seed/ref-013-3/640/480"],
     lien: "https://azambourg.com/"
   },
   {
@@ -143,7 +144,7 @@ const REFERENCES = [
     titre: "Fanette Mellier",
     description: "Designer graphique, elle fait de gros travaux d'édition avec des systèmes de lecture innovants.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-014-1/640/480", "https://picsum.photos/seed/ref-014-2/640/480", "https://picsum.photos/seed/ref-014-3/640/480"],
     lien: "https://fanettemellier.com/"
   },
   {
@@ -151,7 +152,7 @@ const REFERENCES = [
     titre: "Pinaffo & Pluvinage",
     description: "De très gros travaux d'installations (généralement en espace muséal), mélangeant beaucoup de couleurs et de matière (gros travail du bois).",
     categorie: "ARTS PLASTIQUES",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-015-1/640/480", "https://picsum.photos/seed/ref-015-2/640/480", "https://picsum.photos/seed/ref-015-3/640/480"],
     lien: "https://pinaffo-pluvinage.com/"
   },
   {
@@ -159,7 +160,7 @@ const REFERENCES = [
     titre: "Studio 5.5",
     description: "Studio multidisciplinaire, travaillant activement avec de grande marque et très réputé sur la scène française. Beaucoup de leurs projets sont des incontournables comme Nature & Découverte, Duralex ou Réanim.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-016-1/640/480", "https://picsum.photos/seed/ref-016-2/640/480", "https://picsum.photos/seed/ref-016-3/640/480"],
     lien: "https://www.5-5.paris/fr/"
   },
   {
@@ -167,7 +168,7 @@ const REFERENCES = [
     titre: "Studio Nucléo",
     description: "Connu pour son fauteuil Terra, ce studio mélange artisanat et arts plastiques par leurs expérimentations avec la transparence et la texture des matériaux.",
     categorie: "SOCIAL",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-017-1/640/480", "https://picsum.photos/seed/ref-017-2/640/480", "https://picsum.photos/seed/ref-017-3/640/480"],
     lien: "https://nucleo.to/"
   },
   {
@@ -175,7 +176,7 @@ const REFERENCES = [
     titre: "Front Design",
     description: "Ce groupe aime expérimenter au travers des logiciels et des possibilités qu'ils nous offre comme par le vase Blow ou les meubles Sketch Furnitures.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-018-1/640/480", "https://picsum.photos/seed/ref-018-2/640/480", "https://picsum.photos/seed/ref-018-3/640/480"],
     lien: "http://www.frontdesign.se/"
   },
   {
@@ -183,7 +184,7 @@ const REFERENCES = [
     titre: "Terrains Vagues",
     description: "Un atelier graphique faisant de très gros travaux colorés de communication au travers de multiples médiums.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-019-1/640/480", "https://picsum.photos/seed/ref-019-2/640/480", "https://picsum.photos/seed/ref-019-3/640/480"],
     lien: "https://terrainsvagues.fr/"
   },
   {
@@ -191,7 +192,7 @@ const REFERENCES = [
     titre: "Ne Rougissez Pas !",
     description: "Elles sont plusieurs à travailler le design graphique comme outils rapprochant les gens. Leurs travaux permet aussi aux gens de s'approprier l'espace et de s'y sentir bien.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-020-1/640/480", "https://picsum.photos/seed/ref-020-2/640/480", "https://picsum.photos/seed/ref-020-3/640/480"],
     lien: "https://nerougissezpas.fr/"
   },
   {
@@ -199,7 +200,7 @@ const REFERENCES = [
     titre: "Poppy field",
     description: "Le site est pas particulièrement heureux mais c'est une superbe référence sur la datavisualisation grâce à Valentina D’Efilippo.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-021-1/640/480", "https://picsum.photos/seed/ref-021-2/640/480", "https://picsum.photos/seed/ref-021-3/640/480"],
     lien: "https://poppyfield.org/"
   },
   {
@@ -207,7 +208,7 @@ const REFERENCES = [
     titre: "Tessa Silva",
     description: "Cette créatrice mélange ses convictions et son art pour en faire des objets politique portant ainsi sa voix mais aussi celles des animaux exploités.",
     categorie: "ARTISANAT",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-022-1/640/480", "https://picsum.photos/seed/ref-022-2/640/480", "https://picsum.photos/seed/ref-022-3/640/480"],
     lien: "https://www.tessasilva.com/"
   },
   {
@@ -215,7 +216,7 @@ const REFERENCES = [
     titre: "Bruit du Frigo",
     description: "Leur travail consiste principalement à rassembler les communautés et créer un espace de partage.",
     categorie: "SOCIAL",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-023-1/640/480", "https://picsum.photos/seed/ref-023-2/640/480", "https://picsum.photos/seed/ref-023-3/640/480"],
     lien: "https://bruitdufrigo.com/"
   },
   {
@@ -223,7 +224,7 @@ const REFERENCES = [
     titre: "écouter pour voir",
     description: "L'Atelier Graphique fait de gros projets d'identité visuelle et de design graphique.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-024-1/640/480", "https://picsum.photos/seed/ref-024-2/640/480", "https://picsum.photos/seed/ref-024-3/640/480"],
     lien: "https://ecouter-pour-voir.net/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnhNulmHrMPqGcsf7fXQOp7JrNdTY4D9rW-_T3a3uwfUp2WrqQcyXqC3bge3k_aem_1jnCHtUFx7IcHdW78vtpBQ"
   },
   {
@@ -231,7 +232,7 @@ const REFERENCES = [
     titre: "Humaniteam",
     description: "HUMANITEAM est une agence de design en santé et d’innovation sociale. Ils accompagnent les organisations de santé dans leurs projets d'innovation pour faciliter le parcours patient et l'accès au soin.",
     categorie: "SOCIAL",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-025-1/640/480", "https://picsum.photos/seed/ref-025-2/640/480", "https://picsum.photos/seed/ref-025-3/640/480"],
     lien: "https://humaniteam-design.com/"
   },
   {
@@ -239,7 +240,7 @@ const REFERENCES = [
     titre: "Malte Martin - Agrafmobil",
     description: "L’association agrafmobile a pour objet de créer et d'organiser des événements artistiques tant dans le domaine des arts visuels que dans celui du spectacle vivant. Elle intègre ainsi la possibilité du croisement des approches entre plasticiens, chorégraphes, metteurs en scène et autres auteurs. Elle privilégie des interventions qui s'intègrent dans l’espace urbain et rend accessible la création contemporaine à un large public.",
     categorie: "ARTS PLASTIQUES",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-026-1/640/480", "https://picsum.photos/seed/ref-026-2/640/480", "https://picsum.photos/seed/ref-026-3/640/480"],
     lien: ""
   },
   {
@@ -247,7 +248,7 @@ const REFERENCES = [
     titre: "Collectif Etc",
     description: "Ce collectif ancré dans un design d'espace par leurs architectures, espaces publics, installations artistiques et scénographies. Ils sont un peu tout à la fois architecte, artiste et artisan, s’emploie à requestionner ces différentes compétences, en proposant des réponses créatives, décalées, joyeuses et constructives, aux questions que posent l’aménagement des espaces collectifs, en milieu urbain ou rural.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-027-1/640/480", "https://picsum.photos/seed/ref-027-2/640/480", "https://picsum.photos/seed/ref-027-3/640/480"],
     lien: "https://www.collectifetc.com/"
   },
   {
@@ -255,7 +256,7 @@ const REFERENCES = [
     titre: "Sara de Gouy",
     description: "Architecte, designer d’espace et artiste, elle se saisit de chaque opportunité pour concevoir une réponse basé sur l’inventivité, l’écoute et la curiosité.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-028-1/640/480", "https://picsum.photos/seed/ref-028-2/640/480", "https://picsum.photos/seed/ref-028-3/640/480"],
     lien: "https://www.saradegouy.com/"
   },
   {
@@ -263,7 +264,7 @@ const REFERENCES = [
     titre: "Studio Petra Vonk",
     description: "Ce studio essaye de dépasser les usages traditionnels du tissu pour leur donner une fonction dans l'espace laissant ainsi aussi les fonction de réduction de bruit des tissus servir avec esthétique.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-029-1/640/480", "https://picsum.photos/seed/ref-029-2/640/480", "https://picsum.photos/seed/ref-029-3/640/480"],
     lien: "https://www.petravonk.nl/"
   },
   {
@@ -271,7 +272,7 @@ const REFERENCES = [
     titre: "smarin - Stéphanie Marin",
     description: "Stéphanie Marin est une designer qui met au coeur de son travail des objets modulables mettant en avant par la même occasion, les matières bois, tissu et  liège. Par ces créations, elle crée des rythmes au seins des espaces du quotidien qui s'adaptent à chacun et aux changement d'une vie.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-030-1/640/480", "https://picsum.photos/seed/ref-030-2/640/480", "https://picsum.photos/seed/ref-030-3/640/480"],
     lien: "https://www.smarin.net/fr/"
   },
   {
@@ -279,7 +280,7 @@ const REFERENCES = [
     titre: "Distaff Studio",
     description: "Gros travail graphique et typographique allant de la simple affiche, à la signalétique dans les musées en passant par de l'édition. Elles travaillent dans un univers baignée dans la culture et l'art.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-031-1/640/480", "https://picsum.photos/seed/ref-031-2/640/480", "https://picsum.photos/seed/ref-031-3/640/480"],
     lien: "https://distaff.studio/"
   },
   {
@@ -287,7 +288,7 @@ const REFERENCES = [
     titre: "SUPERCONTINENT VE GmbH",
     description: "Ce studio a une esthétique très puissante qui a su séduire de très grande marque pour qu'ils leur réalisent des motions profonds.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-032-1/640/480", "https://picsum.photos/seed/ref-032-2/640/480", "https://picsum.photos/seed/ref-032-3/640/480"],
     lien: "https://spc.co/#works"
   },
   {
@@ -295,7 +296,7 @@ const REFERENCES = [
     titre: "Leo Toronto",
     description: "Connu pour leur collaboration avec IKEA pour Cook This Page, ce studio fait énormément de publicité et de campagne de prévention au travers de cinématique et motions.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-033-1/640/480", "https://picsum.photos/seed/ref-033-2/640/480", "https://picsum.photos/seed/ref-033-3/640/480"],
     lien: "https://leotoronto.com/"
   },
   {
@@ -303,7 +304,7 @@ const REFERENCES = [
     titre: "Androlus Studio",
     description: "Pauline Androlus crée des produits accès sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-034-1/640/480", "https://picsum.photos/seed/ref-034-2/640/480", "https://picsum.photos/seed/ref-034-3/640/480"],
     lien: "https://androlusstudio.com/fr"
   },
   {
@@ -311,7 +312,7 @@ const REFERENCES = [
     titre: "Les frères Bouroullec",
     description: "Ce duo de frères sont très connus, particulièrement pour leur travaux modulables comme les Vases Combinatoires ou ALgues.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-035-1/640/480", "https://picsum.photos/seed/ref-035-2/640/480", "https://picsum.photos/seed/ref-035-3/640/480"],
     lien: "https://www.bouroullec.com/"
   },
   {
@@ -319,7 +320,7 @@ const REFERENCES = [
     titre: "Maarten Baas",
     description: "Son travail, à la limite entre art plastique et design, mélangeant installations, artisanat et performance.",
     categorie: "ARTS PLASTIQUES",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-036-1/640/480", "https://picsum.photos/seed/ref-036-2/640/480", "https://picsum.photos/seed/ref-036-3/640/480"],
     lien: "https://maartenbaas.com/"
   },
   {
@@ -327,7 +328,7 @@ const REFERENCES = [
     titre: "Les Sismo",
     description: "Les Sismo, une agence de design qui, au travers de projets, concrétise la transformation des organisations face aux enjeux du XXIe siècle grâce au design with care.",
     categorie: "ARTISANAT",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-037-1/640/480", "https://picsum.photos/seed/ref-037-2/640/480", "https://picsum.photos/seed/ref-037-3/640/480"],
     lien: "https://www.les-sismo.com/"
   },
   {
@@ -335,7 +336,7 @@ const REFERENCES = [
     titre: "Collectif Yakafokon",
     description: "Le collectif yakafokon rassemble architectes, artistes, constructeur·ices, qui explorent les champs de la conception-réalisation dans les domaines du design, de l’architecture, de l’urbanisme et expérimentent des processus de création collaboratifs à différentes échelles, des ateliers de conception, des chantiers ouverts et des résidences artistiques.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-038-1/640/480", "https://picsum.photos/seed/ref-038-2/640/480", "https://picsum.photos/seed/ref-038-3/640/480"],
     lien: "https://collectifyakafokon.com/"
   },
   {
@@ -343,7 +344,7 @@ const REFERENCES = [
     titre: "YA+K",
     description: "Ce collectif d'architectes a une pratique qui est au coeur de l'innovation sociale par leur idée de réemploi, de réhabilitation, de co-construction et d'éco-construction.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-039-1/640/480", "https://picsum.photos/seed/ref-039-2/640/480", "https://picsum.photos/seed/ref-039-3/640/480"],
     lien: "https://yaplusk.org/"
   },
   {
@@ -351,7 +352,7 @@ const REFERENCES = [
     titre: "Pierre Charrié",
     description: "Pierre Charrié est fasciné par la dimension sensorielle des objets du quotidien et explore la manière dont les matériaux, les sons ou les gestes peuvent créer de nouvelles interactions et transcender l’ordinaire.",
     categorie: "OBJET",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-040-1/640/480", "https://picsum.photos/seed/ref-040-2/640/480", "https://picsum.photos/seed/ref-040-3/640/480"],
     lien: "https://www.pierrecharrie.com/"
   },
   {
@@ -359,7 +360,7 @@ const REFERENCES = [
     titre: "Olivier Vadrot",
     description: "Si certains de ces dispositifs sont nomades, reproductibles et éphémères, réduits à des formes essentielles et réalisés dans des matériaux peu coûteux, d’autres ont été plus durablement implantés dans l’espace public (Conversations, 2018 ; Orchestre, 2018 ; Les Fossiles, 2020).",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-041-1/640/480", "https://picsum.photos/seed/ref-041-2/640/480", "https://picsum.photos/seed/ref-041-3/640/480"],
     lien: "https://vadrot.com/fr"
   },
   {
@@ -367,7 +368,7 @@ const REFERENCES = [
     titre: "Kamonchanok Wongwiboonsat",
     description: "Issu d'une famille cultivant le riz, c'est après son dîplome, en retournant chez ses parents, que Kamonchanok Wongwiboonsat découvre la vrai valeur du riz et ses qualité comme matériaux versatil pouvant être moulé comme du béton ou transformé en tissu.",
     categorie: "ARTISANAT",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-042-1/640/480", "https://picsum.photos/seed/ref-042-2/640/480", "https://picsum.photos/seed/ref-042-3/640/480"],
     lien: "https://korairlorbor.wixstudio.com/kalbstudio"
   },
   {
@@ -375,7 +376,7 @@ const REFERENCES = [
     titre: "Stacey Thomas",
     description: "De gros travaaux d'illustration centré sur la nature dans un univers très doux et rassurant. Elle s'inspire notamment de musée, de la nature, de jeux de société, de l'artisanat et de folklores.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-043-1/640/480", "https://picsum.photos/seed/ref-043-2/640/480", "https://picsum.photos/seed/ref-043-3/640/480"],
     lien: "https://staceythomasmakes.com/"
   },
   {
@@ -383,7 +384,7 @@ const REFERENCES = [
     titre: "Camille Circlude",
     description: "Rien de plus politique que le language, Camille Circlude l'a bien compris et essaye au travers de ses typographies et de ses travaux graphiques de dépasser les limites du language oral et du genre. Ses typographies sont téléchargeables sur le site Bye Bye Binary.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-044-1/640/480", "https://picsum.photos/seed/ref-044-2/640/480", "https://picsum.photos/seed/ref-044-3/640/480"],
     lien: "https://camillecirclude.be/"
   },
   {
@@ -391,7 +392,7 @@ const REFERENCES = [
     titre: "Natasha Durley",
     description: "Natasha Burley a un travail très coloré centré sur la nature avec de grands projets autours des animaux qu'elles réimaginent très colorés.",
     categorie: "ESPACE",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-045-1/640/480", "https://picsum.photos/seed/ref-045-2/640/480", "https://picsum.photos/seed/ref-045-3/640/480"],
     lien: "https://www.natashadurley.com/"
   },
   {
@@ -399,7 +400,7 @@ const REFERENCES = [
     titre: "Owen Davey",
     description: "Travaux d'illustration colorés sur les animaux et la nature principalement, dans un style géométrique.",
     categorie: "GRAPHISME",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-046-1/640/480", "https://picsum.photos/seed/ref-046-2/640/480", "https://picsum.photos/seed/ref-046-3/640/480"],
     lien: "https://owendavey.com/"
   },
   {
@@ -407,7 +408,7 @@ const REFERENCES = [
     titre: "La Bonneterie",
     description: "Ils y plein de trucs à base de bois et de métal, ils se forment à différentes techniques suivant les intervenant.e.s, ils répètent, ils dorment, ils y brassent de la bière, on imprime ou ils floquent des vêtement. Ce lieu devient vraiment un lieu de rencontre et de co-création ressemblant à un fablab.",
     categorie: "SOCIAL",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-047-1/640/480", "https://picsum.photos/seed/ref-047-2/640/480", "https://picsum.photos/seed/ref-047-3/640/480"],
     lien: "https://labonneterie.be/"
   },
   {
@@ -415,7 +416,7 @@ const REFERENCES = [
     titre: "Milla Vaahtera",
     description: "Milla Vaahtera est une artiste designer d'objet et artisane du métal dont le travail sculptural mène souvent à la création de luminaires. Mélangeant des forment très organiques et des matériaux froids comme le verre ou le métal, elle crée un réel oxymore au travers de son art.",
     categorie: "ARTISANAT",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-048-1/640/480", "https://picsum.photos/seed/ref-048-2/640/480", "https://picsum.photos/seed/ref-048-3/640/480"],
     lien: "https://www.instagram.com/millavaahtera/"
   },
   {
@@ -423,7 +424,7 @@ const REFERENCES = [
     titre: "Lorenzo Mattotti",
     description: "C’est son sens du trait comme de la couleur qui a permis à l’artiste de construire une oeuvre aux facettes multiples – bande dessinée, cinéma d’animation, peinture, dessin – en façonnant au gré de ses propres expériences, un langage unique.",
     categorie: "ARTS PLASTIQUES",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-049-1/640/480", "https://picsum.photos/seed/ref-049-2/640/480", "https://picsum.photos/seed/ref-049-3/640/480"],
     lien: "https://www.instagram.com/lorenzomattotti/?hl=fr"
   },
   {
@@ -431,7 +432,7 @@ const REFERENCES = [
     titre: "Studio Samuel Tomatis",
     description: "La Bretagne et son écosystème est la base toute sa réflexion autour des matériaux que Samuel Tomatis et son équipe conçoivent grâce aux algues qui pullulent sur les plages de Bretagne.",
     categorie: "ARTISANAT",
-    images: [],
+    images: ["https://picsum.photos/seed/ref-050-1/640/480", "https://picsum.photos/seed/ref-050-2/640/480", "https://picsum.photos/seed/ref-050-3/640/480"],
     lien: "https://www.studiosamueltomatis.com/"
   },
   {
