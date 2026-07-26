@@ -102,7 +102,7 @@ const REFERENCES = [
     id: "ref-009",
     titre: "Mathieu Lehanneur",
     description: "Entre oeuvres d'arts et design, Mathieu Lehanneur crée un design épuré et sans superflu. Il imagine aussi des objet qui ne sont pas seulement esthétiquement plaisant mais qui sont des solutions.",
-    categorie: "OBJET","ARTS PLASTIQUES",
+    categorie: "OBJET",
     images: [],
     lien: "https://www.mathieulehanneur.fr/works"
   },
