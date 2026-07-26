@@ -276,123 +276,123 @@ const REFERENCES = [
   },
   {
     id: "ref-031",
-    titre: "",
-    description: "",
-    categorie: "ARTISANAT",
+    titre: "Distaff Studio",
+    description: "Gros travail graphique et typographique allant de la simple affiche, à la signalétique dans les musées en passant par de l'édition. Elles travaillent dans un univers baignée dans la culture et l'art.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://distaff.studio/"
   },
   {
     id: "ref-032",
-    titre: "",
-    description: "",
+    titre: "SUPERCONTINENT VE GmbH",
+    description: "Ce studio a une esthétique très puissante qui a su séduire de très grande marque pour qu'ils leur réalisent des motions profonds.",
     categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://spc.co/#works"
   },
   {
     id: "ref-033",
-    titre: "",
-    description: "",
-    categorie: "ESPACE",
+    titre: "Leo Toronto",
+    description: "Connu pour leur collaboration avec IKEA pour Cook This Page, ce studio fait énormément de publicité et de campagne de prévention au travers de cinématique et motions.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://leotoronto.com/"
   },
   {
     id: "ref-034",
-    titre: "",
-    description: "",
-    categorie: "GRAPHISME",
+    titre: "Androlus Studio",
+    description: "Pauline Androlus crée des produits accès sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
+    categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://androlusstudio.com/fr"
   },
   {
     id: "ref-035",
-    titre: "",
-    description: "",
-    categorie: "SOCIAL",
+    titre: "Les frères Bouroullec",
+    description: "Ce duo de frères sont très connus, particulièrement pour leur travaux modulables comme les Vases Combinatoires ou ALgues.",
+    categorie: "OBJETS",
     images: [],
-    lien: ""
+    lien: "https://www.bouroullec.com/"
   },
   {
     id: "ref-036",
-    titre: "",
-    description: "",
+    titre: "Maarten Baas",
+    description: "Son travail, à la limite entre art plastique et design, mélangeant installations, artisanat et performance.",
     categorie: "ARTS PLASTIQUES",
     images: [],
-    lien: ""
+    lien: "https://maartenbaas.com/"
   },
   {
     id: "ref-037",
-    titre: "",
-    description: "",
+    titre: "Les Sismo",
+    description: "Les Sismo, une agence de design qui, au travers de projets, concrétise la transformation des organisations face aux enjeux du XXIe siècle grâce au design with care.",
     categorie: "ARTISANAT",
     images: [],
-    lien: ""
+    lien: "https://www.les-sismo.com/"
   },
   {
     id: "ref-038",
-    titre: "",
-    description: "",
-    categorie: "OBJET",
+    titre: "Collectif Yakafokon",
+    description: "Le collectif yakafokon rassemble architectes, artistes, constructeur·ices, qui explorent les champs de la conception-réalisation dans les domaines du design, de l’architecture, de l’urbanisme et expérimentent des processus de création collaboratifs à différentes échelles, des ateliers de conception, des chantiers ouverts et des résidences artistiques.",
+    categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://collectifyakafokon.com/"
   },
   {
     id: "ref-039",
-    titre: "",
-    description: "",
+    titre: "YA+K",
+    description: "Ce collectif d'architectes a une pratique qui est au coeur de l'innovation sociale par leur idée de réemploi, de réhabilitation, de co-construction et d'éco-construction.",
     categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://yaplusk.org/"
   },
   {
     id: "ref-040",
-    titre: "",
-    description: "",
-    categorie: "GRAPHISME",
+    titre: "Pierre Charrié",
+    description: "Pierre Charrié est fasciné par la dimension sensorielle des objets du quotidien et explore la manière dont les matériaux, les sons ou les gestes peuvent créer de nouvelles interactions et transcender l’ordinaire.",
+    categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://www.pierrecharrie.com/"
   },
   {
     id: "ref-041",
-    titre: "",
-    description: "",
-    categorie: "SOCIAL",
+    titre: "Olivier Vadrot",
+    description: "Si certains de ces dispositifs sont nomades, reproductibles et éphémères, réduits à des formes essentielles et réalisés dans des matériaux peu coûteux, d’autres ont été plus durablement implantés dans l’espace public (Conversations, 2018 ; Orchestre, 2018 ; Les Fossiles, 2020).",
+    categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://vadrot.com/fr"
   },
   {
     id: "ref-042",
-    titre: "",
-    description: "",
-    categorie: "ARTS PLASTIQUES",
+    titre: "Kamonchanok Wongwiboonsat",
+    description: "Issu d'une famille cultivant le riz, c'est après son dîplome, en retournant chez ses parents, que Kamonchanok Wongwiboonsat découvre la vrai valeur du riz et ses qualité comme matériaux versatil pouvant être moulé comme du béton ou transformé en tissu.",
+    categorie: "ARTISANAT",
     images: [],
-    lien: ""
+    lien: "https://korairlorbor.wixstudio.com/kalbstudio"
   },
   {
     id: "ref-043",
-    titre: "",
-    description: "",
-    categorie: "ARTISANAT",
+    titre: "Stacey Thomas",
+    description: "De gros travaaux d'illustration centré sur la nature dans un univers très doux et rassurant. Elle s'inspire notamment de musée, de la nature, de jeux de société, de l'artisanat et de folklores.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://staceythomasmakes.com/"
   },
   {
     id: "ref-044",
-    titre: "",
-    description: "",
-    categorie: "OBJET",
+    titre: "Camille Circlude",
+    description: "Rien de plus politique que le language, Camille Circlude l'a bien compris et essaye au travers de ses typographies et de ses travaux graphiques de dépasser les limites du language oral et du genre. Ses typographies sont téléchargeables sur le site Bye Bye Binary.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://camillecirclude.be/"
   },
   {
     id: "ref-045",
-    titre: "",
-    description: "",
+    titre: "Natasha Durley",
+    description: "Natasha Burley a un travail très coloré centré sur la nature avec de grands projets autours des animaux qu'elles réimaginent très colorés.",
     categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://www.natashadurley.com/"
   },
   {
     id: "ref-046",
