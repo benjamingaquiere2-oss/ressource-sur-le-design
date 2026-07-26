@@ -420,19 +420,19 @@ const REFERENCES = [
   },
   {
     id: "ref-049",
-    titre: "",
+    titre: "Lorenzo Mattotti",
     description: "",
     categorie: "ARTISANAT",
     images: [],
-    lien: ""
+    lien: "https://www.instagram.com/lorenzomattotti/?hl=fr"
   },
   {
     id: "ref-050",
-    titre: "",
+    titre: "Studio Samuel Tomatis",
     description: "",
     categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://www.studiosamueltomatis.com/"
   },
   {
     id: "ref-051",
