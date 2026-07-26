@@ -196,83 +196,83 @@ const REFERENCES = [
   },
   {
     id: "ref-021",
-    titre: "",
-    description: "",
-    categorie: "ESPACE",
+    titre: "Poppy field",
+    description: "Le site est pas particulièrement heureux mais c'est une superbe référence sur la datavisualisation grâce à Valentina D’Efilippo.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://poppyfield.org/"
   },
   {
     id: "ref-022",
-    titre: "",
-    description: "",
-    categorie: "GRAPHISME",
+    titre: "Tessa Silva",
+    description: "Cette créatrice mélange ses convictions et son art pour en faire des objets politique portant ainsi sa voix mais aussi celles des animaux exploités.",
+    categorie: "ARTISANAT",
     images: [],
-    lien: ""
+    lien: "https://www.tessasilva.com/"
   },
   {
     id: "ref-023",
-    titre: "",
-    description: "",
+    titre: "Bruit du Frigo",
+    description: "Leur travail consiste principalement à rassembler les communautés et créer un espace de partage.",
     categorie: "SOCIAL",
     images: [],
-    lien: ""
+    lien: "https://bruitdufrigo.com/"
   },
   {
     id: "ref-024",
-    titre: "",
-    description: "",
-    categorie: "ARTS PLASTIQUES",
+    titre: "écouter pour voir",
+    description: "L'Atelier Graphique fait de gros projets d'identité visuelle et de design graphique.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://ecouter-pour-voir.net/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnhNulmHrMPqGcsf7fXQOp7JrNdTY4D9rW-_T3a3uwfUp2WrqQcyXqC3bge3k_aem_1jnCHtUFx7IcHdW78vtpBQ"
   },
   {
     id: "ref-025",
-    titre: "",
-    description: "",
-    categorie: "ARTISANAT",
+    titre: "Humaniteam",
+    description: "HUMANITEAM est une agence de design en santé et d’innovation sociale. Ils accompagnent les organisations de santé dans leurs projets d'innovation pour faciliter le parcours patient et l'accès au soin.",
+    categorie: "SOCIAL",
     images: [],
-    lien: ""
+    lien: "https://humaniteam-design.com/"
   },
   {
     id: "ref-026",
-    titre: "",
-    description: "",
-    categorie: "OBJET",
+    titre: "Malte Martin - Agrafmobil",
+    description: "L’association agrafmobile a pour objet de créer et d'organiser des événements artistiques tant dans le domaine des arts visuels que dans celui du spectacle vivant. Elle intègre ainsi la possibilité du croisement des approches entre plasticiens, chorégraphes, metteurs en scène et autres auteurs. Elle privilégie des interventions qui s'intègrent dans l’espace urbain et rend accessible la création contemporaine à un large public.",
+    categorie: "ARTS PLASTIQUES",
     images: [],
     lien: ""
   },
   {
     id: "ref-027",
-    titre: "",
-    description: "",
+    titre: "Collectif Etc",
+    description: "Ce collectif ancré dans un design d'espace par leurs architectures, espaces publics, installations artistiques et scénographies. Ils sont un peu tout à la fois architecte, artiste et artisan, s’emploie à requestionner ces différentes compétences, en proposant des réponses créatives, décalées, joyeuses et constructives, aux questions que posent l’aménagement des espaces collectifs, en milieu urbain ou rural.",
     categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://www.collectifetc.com/"
   },
   {
     id: "ref-028",
-    titre: "",
-    description: "",
-    categorie: "GRAPHISME",
+    titre: "Sara de Gouy",
+    description: "Architecte, designer d’espace et artiste, elle se saisit de chaque opportunité pour concevoir une réponse basé sur l’inventivité, l’écoute et la curiosité.",
+    categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://www.saradegouy.com/"
   },
   {
     id: "ref-029",
-    titre: "",
-    description: "",
-    categorie: "SOCIAL",
+    titre: "Studio Petra Vonk",
+    description: "Ce studio essaye de dépasser les usages traditionnels du tissu pour leur donner une fonction dans l'espace laissant ainsi aussi les fonction de réduction de bruit des tissus servir avec esthétique.",
+    categorie: "ESPACE",
     images: [],
-    lien: ""
+    lien: "https://www.petravonk.nl/"
   },
   {
     id: "ref-030",
-    titre: "",
-    description: "",
-    categorie: "ARTS PLASTIQUES",
+    titre: "smarin - Stéphanie Marin",
+    description: "Stéphanie Marin est une designer qui met au coeur de son travail des objets modulables mettant en avant par la même occasion, les matières bois, tissu et  liège. Par ces créations, elle crée des rythmes au seins des espaces du quotidien qui s'adaptent à chacun et aux changement d'une vie.",
+    categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://www.smarin.net/fr/"
   },
   {
     id: "ref-031",
