@@ -421,15 +421,15 @@ const REFERENCES = [
   {
     id: "ref-049",
     titre: "Lorenzo Mattotti",
-    description: "",
-    categorie: "GRAPHISME",
+    description: "C’est son sens du trait comme de la couleur qui a permis à l’artiste de construire une oeuvre aux facettes multiples – bande dessinée, cinéma d’animation, peinture, dessin – en façonnant au gré de ses propres expériences, un langage unique.",
+    categorie: "ARTS PLASTIQUES",
     images: [],
     lien: "https://www.instagram.com/lorenzomattotti/?hl=fr"
   },
   {
     id: "ref-050",
     titre: "Studio Samuel Tomatis",
-    description: "",
+    description: "La Bretagne et son écosystème est la base toute sa réflexion autour des matériaux que Samuel Tomatis et son équipe conçoivent grâce aux algues qui pullulent sur les plages de Bretagne.",
     categorie: "ARTISANAT",
     images: [],
     lien: "https://www.studiosamueltomatis.com/"
