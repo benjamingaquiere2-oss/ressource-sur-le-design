@@ -156,43 +156,43 @@ const REFERENCES = [
   },
   {
     id: "ref-016",
-    titre: "",
-    description: "",
-    categorie: "GRAPHISME",
+    titre: "Studio 5.5",
+    description: "Studio multidisciplinaire, travaillant activement avec de grande marque et très réputé sur la scène française. Beaucoup de leurs projets sont des incontournables comme Nature & Découverte, Duralex ou Réanim.",
+    categorie: "ESPACE" "OBJET",
     images: [],
-    lien: ""
+    lien: "https://www.5-5.paris/fr/"
   },
   {
     id: "ref-017",
-    titre: "",
-    description: "",
+    titre: "Studio Nucléo",
+    description: "Connu pour son fauteuil Terra, ce studio mélange artisanat et arts plastiques par leurs expérimentations avec la transparence et la texture des matériaux.",
     categorie: "SOCIAL",
     images: [],
-    lien: ""
+    lien: "https://nucleo.to/"
   },
   {
     id: "ref-018",
-    titre: "",
-    description: "",
-    categorie: "ARTS PLASTIQUES",
+    titre: "Front Design",
+    description: "Ce groupe aime expérimenter au travers des logiciels et des possibilités qu'ils nous offre comme par le vase Blow ou les meubles Sketch Furnitures.",
+    categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "http://www.frontdesign.se/"
   },
   {
     id: "ref-019",
-    titre: "",
-    description: "",
-    categorie: "ARTISANAT",
+    titre: "Terrains Vagues",
+    description: "Un atelier graphique faisant de très gros travaux colorés de communication au travers de multiples médiums.",
+    categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://terrainsvagues.fr/"
   },
   {
     id: "ref-020",
-    titre: "",
-    description: "",
+    titre: "Ne Rougissez Pas !",
+    description: "Elles sont plusieurs à travailler le design graphique comme outils rapprochant les gens. Leurs travaux permet aussi aux gens de s'approprier l'espace et de s'y sentir bien.",
     categorie: "OBJET",
     images: [],
-    lien: ""
+    lien: "https://nerougissezpas.fr/"
   },
   {
     id: "ref-021",
