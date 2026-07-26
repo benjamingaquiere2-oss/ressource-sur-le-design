@@ -158,7 +158,7 @@ const REFERENCES = [
     id: "ref-016",
     titre: "Studio 5.5",
     description: "Studio multidisciplinaire, travaillant activement avec de grande marque et très réputé sur la scène française. Beaucoup de leurs projets sont des incontournables comme Nature & Découverte, Duralex ou Réanim.",
-    categorie: "ESPACE" "OBJET",
+    categorie: "OBJET",
     images: [],
     lien: "https://www.5-5.paris/fr/"
   },
