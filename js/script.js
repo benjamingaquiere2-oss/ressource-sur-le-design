@@ -133,7 +133,7 @@ const REFERENCES = [
   },
   {
     id: "ref-013",
-    titre: "Studio Françoois Azembourg",
+    titre: "Studio François Azembourg",
     description: "Travail des objets d'une manière très sculturale avec des productions bordant l'oeuvre d'art. François Azembourg est notamment connu pour ces vases Douglas.",
     categorie: "OBJET",
     images: ["https://picsum.photos/seed/ref-013-1/640/480", "https://picsum.photos/seed/ref-013-2/640/480", "https://picsum.photos/seed/ref-013-3/640/480"],
@@ -221,7 +221,7 @@ const REFERENCES = [
   },
   {
     id: "ref-024",
-    titre: "écouter pour voir",
+    titre: "Écouter pour voir",
     description: "L'Atelier Graphique fait de gros projets d'identité visuelle et de design graphique.",
     categorie: "GRAPHISME",
     images: ["https://picsum.photos/seed/ref-024-1/640/480", "https://picsum.photos/seed/ref-024-2/640/480", "https://picsum.photos/seed/ref-024-3/640/480"],
@@ -375,7 +375,7 @@ const REFERENCES = [
     id: "ref-043",
     titre: "Stacey Thomas",
     description: "De gros travaaux d'illustration centré sur la nature dans un univers très doux et rassurant. Elle s'inspire notamment de musée, de la nature, de jeux de société, de l'artisanat et de folklores.",
-    categorie: "GRAPHISME",
+    categorie: "ILLUSTRATION",
     images: ["https://picsum.photos/seed/ref-043-1/640/480", "https://picsum.photos/seed/ref-043-2/640/480", "https://picsum.photos/seed/ref-043-3/640/480"],
     lien: "https://staceythomasmakes.com/"
   },
@@ -391,7 +391,7 @@ const REFERENCES = [
     id: "ref-045",
     titre: "Natasha Durley",
     description: "Natasha Burley a un travail très coloré centré sur la nature avec de grands projets autours des animaux qu'elles réimaginent très colorés.",
-    categorie: "ESPACE",
+    categorie: "ILLUSTRATION",
     images: ["https://picsum.photos/seed/ref-045-1/640/480", "https://picsum.photos/seed/ref-045-2/640/480", "https://picsum.photos/seed/ref-045-3/640/480"],
     lien: "https://www.natashadurley.com/"
   },
@@ -399,7 +399,7 @@ const REFERENCES = [
     id: "ref-046",
     titre: "Owen Davey",
     description: "Travaux d'illustration colorés sur les animaux et la nature principalement, dans un style géométrique.",
-    categorie: "GRAPHISME",
+    categorie: "ILLUSTRATION",
     images: ["https://picsum.photos/seed/ref-046-1/640/480", "https://picsum.photos/seed/ref-046-2/640/480", "https://picsum.photos/seed/ref-046-3/640/480"],
     lien: "https://owendavey.com/"
   },
@@ -423,7 +423,7 @@ const REFERENCES = [
     id: "ref-049",
     titre: "Lorenzo Mattotti",
     description: "C’est son sens du trait comme de la couleur qui a permis à l’artiste de construire une oeuvre aux facettes multiples – bande dessinée, cinéma d’animation, peinture, dessin – en façonnant au gré de ses propres expériences, un langage unique.",
-    categorie: "ARTS PLASTIQUES",
+    categorie: "ILLUSTRATION",
     images: ["https://picsum.photos/seed/ref-049-1/640/480", "https://picsum.photos/seed/ref-049-2/640/480", "https://picsum.photos/seed/ref-049-3/640/480"],
     lien: "https://www.instagram.com/lorenzomattotti/?hl=fr"
   },
