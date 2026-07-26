@@ -396,27 +396,27 @@ const REFERENCES = [
   },
   {
     id: "ref-046",
-    titre: "",
-    description: "",
+    titre: "Owen Davey",
+    description: "Travaux d'illustration colorés sur les animaux et la nature principalement, dans un style géométrique.",
     categorie: "GRAPHISME",
     images: [],
-    lien: ""
+    lien: "https://owendavey.com/"
   },
   {
     id: "ref-047",
-    titre: "",
-    description: "",
+    titre: "La Bonneterie",
+    description: "Ils y plein de trucs à base de bois et de métal, ils se forment à différentes techniques suivant les intervenant.e.s, ils répètent, ils dorment, ils y brassent de la bière, on imprime ou ils floquent des vêtement. Ce lieu devient vraiment un lieu de rencontre et de co-création ressemblant à un fablab.",
     categorie: "SOCIAL",
     images: [],
-    lien: ""
+    lien: "https://labonneterie.be/"
   },
   {
     id: "ref-048",
-    titre: "",
-    description: "",
-    categorie: "ARTS PLASTIQUES",
+    titre: "Milla Vaahtera",
+    description: "Milla Vaahtera est une artiste designer d'objet et artisane du métal dont le travail sculptural mène souvent à la création de luminaires. Mélangeant des forment très organiques et des matériaux froids comme le verre ou le métal, elle crée un réel oxymore au travers de son art.",
+    categorie: "ARTISANAT",
     images: [],
-    lien: ""
+    lien: "https://www.instagram.com/millavaahtera/"
   },
   {
     id: "ref-049",
