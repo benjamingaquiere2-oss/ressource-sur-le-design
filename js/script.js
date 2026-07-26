@@ -43,12 +43,15 @@ const REFERENCES = [
     images: ["https://www.superterrain.fr/media/pages/nuits-sonores-2024/efb28f66b1-1729678422/superterrain-2024-ns24-1920x.jpg", "https://www.superterrain.fr/media/pages/super-flux-24/45b672544a-1742210475/super-flux-24-super-terrain-1920x.jpg", "https://www.superterrain.fr/media/pages/theatre-joliette/72c0a49000-1739439721/joliette-23-24-super-terrain-0-1920x.jpg"],
     lien: "https://superterrain.fr"
   },
+
+/**  <img src="images/logo/logo-bde-baker.png" alt="Logo BDE Baker"> */
+   
   {
     id: "ref-002",
     titre: "Diane Bovin atelier",
     description: "Graphiste, motion designer, illustratrice, typographe, ... Polymathe, elle a notamment fait la charte graphique et le site de l'ISDAT.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-002-1/640/480", "https://picsum.photos/seed/ref-002-2/640/480", "https://picsum.photos/seed/ref-002-3/640/480"],
+    images: ["https://freight.cargo.site/w/468/q/75/i/M2780697332757205817932007084098/ANIMATION-GRAND-FORMAT.gif", "https://freight.cargo.site/w/600/q/75/i/M1684048173851469950433005670466/Traversee-du-vivant_comm_OK_7_Mars3.jpg", "https://freight.cargo.site/w/400/q/75/i/P1696854550773008203190741766210/4_photo.jpg"],
     lien: "https://dianeboivinatelier.com"
   },
   {
@@ -56,7 +59,7 @@ const REFERENCES = [
     titre: "Lucile Viaud",
     description: "Design de produit et artisanat du verre autour du concept de géoverrerie :  Idée que le verre pourrait refléter les caractères naturels et humains de la région dont les matières premières qui le composent sont issues.",
     categorie: "ARTISANAT",
-    images: ["https://picsum.photos/seed/ref-003-1/640/480", "https://picsum.photos/seed/ref-003-2/640/480", "https://picsum.photos/seed/ref-003-3/640/480"],
+    images: ["https://atelierlucileviaud.com/wp-content/uploads/2020/06/MaisonOrso_ReserveEau_2021_LucileViaud18-512x768.jpg", "https://atelierlucileviaud.com/wp-content/uploads/2020/06/vignettes_ALV_ponant-echantillons-10-512x717.jpg", "https://atelierlucileviaud.com/wp-content/uploads/2023/09/Atelier_Lucile_Viaud_05.23_64_GermainHerriau-1280x854.jpg"],
     lien: "https://atelierlucileviaud.com/"
   },
   {
@@ -64,7 +67,7 @@ const REFERENCES = [
     titre: "Alexandre Echasseriau",
     description: "Design industriel, design de fiction, upcycling, ... Pour Alexandre, le travail de la matière semble être le point essentiel à travailler pour connecter l'usager et la production.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-004-1/640/480", "https://picsum.photos/seed/ref-004-2/640/480", "https://picsum.photos/seed/ref-004-3/640/480"],
+    images: ["https://freight.cargo.site/w/900/q/75/i/5e2ca4c9c30c3298c873fd041f12a39a3f30006b44fa5d9d50352ef06882528a/A.jpg", "https://freight.cargo.site/t/original/i/5c2fc9b0c3c628eb00f5c5d258cea31cceba04610c4c57b9ac1cc318a378abe4/25-Alexandre-Echasseriau.JPG", "https://freight.cargo.site/w/1000/q/75/i/28afab0c9edc6436593129a10898056fc5c9a77d4ca6ca5015b68d09a4cbd2ff/doc-finale6.jpg"],
     lien: "https://alexandreechasseriau.com"
   },
   {
@@ -72,7 +75,7 @@ const REFERENCES = [
     titre: "Atelier Baudelaire",
     description: "L'Atelier Baudelaire est un studio de recherche et de création qui relie le design graphisme et le volume, les domaines de la culture et de l'innovation.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-005-1/640/480", "https://picsum.photos/seed/ref-005-2/640/480", "https://picsum.photos/seed/ref-005-3/640/480"],
+    images: ["https://atelierbaudelaire.com/images/7/4/c/8/2/74c825ff1e521d6d1be7b2f7207927c04063f94c-dsc00660a.jpg?g-98a38b16", "https://atelierbaudelaire.com/images/6/c/7/f/e/6c7fe4fe69a13743a275231e21f0e8bdd72929c0-1dsc00348ret.jpg?g-98a38b16", "https://atelierbaudelaire.com/images/e/7/5/7/4/e75746d8cf725c79322592d56359b814148706a4-dsc04203.jpg?g-98a38b16"],
     lien: "https://atelierbaudelaire.com"
   },
   {
@@ -80,23 +83,23 @@ const REFERENCES = [
     titre: "Roxane Andrès",
     description: "Roxane s'ancre dans une démarche qui relie les gens et son design. Des formes organiques et un design social formant des projets autour de grandes étapes de la vie d'un usager.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-006-1/640/480", "https://picsum.photos/seed/ref-006-2/640/480", "https://picsum.photos/seed/ref-006-3/640/480"],
-    lien: "https://roxaneandres.com"
+    images: ["http://www.roxaneandres.com/wp-content/uploads/2017/06/valet_discret-Roxane_Andres-3.jpg", "http://www.roxaneandres.com/wp-content/uploads/2014/10/urnemiroir-loyasse-03B-web.jpg", "http://www.roxaneandres.com/wp-content/uploads/2013/11/expo-e%CC%81vian-vue3.jpg"],
+    lien: "http://www.roxaneandres.com/"
   },
   {
     id: "ref-007",
     titre: "Collectif Gru",
     description: "Scénographies et architectures, le Collectif Gru crée de véritables espaces vivants, souvent éphémères, transportant le visiteur.",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-007-1/640/480", "https://picsum.photos/seed/ref-007-2/640/480", "https://picsum.photos/seed/ref-007-3/640/480"],
-    lien: "https://collectifgru.fr"
+    images: ["https://collectifgru.fr/wp-content/uploads/2022/03/Axo-1-100-PF-1536x1229.jpg", "https://collectifgru.fr/wp-content/uploads/2025/12/IMG_2061-1536x1024.jpg", "https://collectifgru.fr/wp-content/uploads/2025/12/MG_2122-1365x2048.jpg"],
+    lien: "https://collectifgru.fr/"
   },
   {
     id: "ref-008",
     titre: "Matali Crasset",
     description: "Figure emblématique du design français, elle a un travail très coloré et ludique. Principalement designer d'objet, son travail est maintenant un mélange entre les arts plastique, le design et une pratique sociale forte.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-008-1/640/480", "https://picsum.photos/seed/ref-008-2/640/480", "https://picsum.photos/seed/ref-008-3/640/480"],
+    images: ["https://image.jimcdn.com/app/cms/image/transf/dimension=397x1024:format=png/path/s43202160869f99f9/image/i619b5dac35226f79/version/1455713855/image.png", "https://www.campeggidesign.it/wp-content/uploads/2022/05/Concentre-de-Vie-5.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-5zfCiXgzrY6pPeoxnjt64czYcRwfcigHS5fWm84Ng&s=10"],
     lien: "https://www.matalicrasset.com/fr"
   },
   {
@@ -104,7 +107,7 @@ const REFERENCES = [
     titre: "Mathieu Lehanneur",
     description: "Entre oeuvres d'arts et design, Mathieu Lehanneur crée un design épuré et sans superflu. Il imagine aussi des objet qui ne sont pas seulement esthétiquement plaisant mais qui sont des solutions.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-009-1/640/480", "https://picsum.photos/seed/ref-009-2/640/480", "https://picsum.photos/seed/ref-009-3/640/480"],
+    images: ["https://www.mathieulehanneur.fr/imagesbank/1715338089_663dfb6980d19.jpg", "https://www.mathieulehanneur.fr/imagesbank/1461886831_57229f6f24d36.jpg", "https://www.mathieulehanneur.fr/imagesbank/1668505379_63735f23b8878.jpg"],
     lien: "https://www.mathieulehanneur.fr/works"
   },
   {
@@ -112,7 +115,7 @@ const REFERENCES = [
     titre: "The Shelf Compagny",
     description: "De gros travaux d'éditions sont réunies sur leur site internet permettant de voir de la data visualisation, des illustrations et de la composition de livres et magazines.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-010-1/640/480", "https://picsum.photos/seed/ref-010-2/640/480", "https://picsum.photos/seed/ref-010-3/640/480"],
+    images: ["https://company.theshelf.fr/content/2-portfolio/624-paname-express-vitry-centre/sgp-g_32.jpg", "https://company.theshelf.fr/content/2-portfolio/229-the-shelf-journal-5-laurel-parker-double-page-i/tsj_n5_7.jpg", "https://company.theshelf.fr/content/2-portfolio/695-ccc-od-cartes-de-visite/cco-cv-01_1.svg"],
     lien: "https://company.theshelf.fr/"
   },
   {
