@@ -310,7 +310,7 @@ const REFERENCES = [
     id: "ref-035",
     titre: "Les frères Bouroullec",
     description: "Ce duo de frères sont très connus, particulièrement pour leur travaux modulables comme les Vases Combinatoires ou ALgues.",
-    categorie: "OBJETS",
+    categorie: "OBJET",
     images: [],
     lien: "https://www.bouroullec.com/"
   },
