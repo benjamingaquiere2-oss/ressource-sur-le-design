@@ -123,7 +123,7 @@ const REFERENCES = [
     titre: "Filloque & Zammie & Cie",
     description: "Ils forment un groupe d'artistes plasticien.ne.s utilisant des techniques traditionnelles comme le collage, le crayonnage ou une écriture plus manuscrite.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-011-1/640/480", "https://picsum.photos/seed/ref-011-2/640/480", "https://picsum.photos/seed/ref-011-3/640/480"],
+    images: ["https://www.filloque-zammit.net/wp-content/uploads/2026/02/Zammit-Malvolti-carte_chateauneuf_2026_intro.jpg", "https://www.filloque-zammit.net/wp-content/uploads/2025/06/Zammit-festin-Bigoud-4.jpg", "https://www.filloque-zammit.net/wp-content/uploads/2022/08/2111-Filloque_affichesintergalictique-copie-1200x848.jpg"],
     lien: "https://www.filloque-zammit.net/"
   },
   {
@@ -131,7 +131,7 @@ const REFERENCES = [
     titre: "Formes Vives",
     description: "Même si ce groupe n'hexiste plus, leur travail reste majeur sur la scène française de l'identité visuelle. Leurs nombreux travaux vont plus loin que du graphisme et sont travaillés au travers de plusieurs outils et techniques.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-012-1/640/480", "https://picsum.photos/seed/ref-012-2/640/480", "https://picsum.photos/seed/ref-012-3/640/480"],
+    images: ["https://www.formes-vives.org/images/public/FormesVives-13Vents-2021-aff_saison-2020.jpg", "https://www.formes-vives.org/images/public/FormesVives-13Vents-1920-Prog2001.jpg", "https://www.formes-vives.org/atelier/public/sceno-installations/BarreauCharbonnet-Fichtre-FormesVives-StudioPlage-Sion-2018.jpg"],
     lien: "https://www.formes-vives.org/images/"
   },
   {
@@ -139,7 +139,7 @@ const REFERENCES = [
     titre: "Studio François Azembourg",
     description: "Travail des objets d'une manière très sculturale avec des productions bordant l'oeuvre d'art. François Azembourg est notamment connu pour ces vases Douglas.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-013-1/640/480", "https://picsum.photos/seed/ref-013-2/640/480", "https://picsum.photos/seed/ref-013-3/640/480"],
+    images: ["https://azambourg.com/wp-content/uploads/2016/12/Vase-noir-rvb-e1516791229187.jpg", "https://azambourg.com/wp-content/uploads/2023/03/boisfendu-web.jpg", "https://azambourg.com/wp-content/uploads/2023/02/francois-azambourg-ciav-metamorfoses-2-copie-e1677163528401.jpg"],
     lien: "https://azambourg.com/"
   },
   {
@@ -147,7 +147,7 @@ const REFERENCES = [
     titre: "Fanette Mellier",
     description: "Designer graphique, elle fait de gros travaux d'édition avec des systèmes de lecture innovants.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-014-1/640/480", "https://picsum.photos/seed/ref-014-2/640/480", "https://picsum.photos/seed/ref-014-3/640/480"],
+    images: ["https://fanettemellier.com/media/pages/carottage/9ef8e544c9-1770915705/image-carottage-01.jpg", "https://fanettemellier.com/media/pages/bonnes-meres/b0969580a9-1782311742/bonnes-meres-02.jpg", "https://fanettemellier.com/media/pages/memoria/ef4856f331-1747735775/memoria-01.jpg"],
     lien: "https://fanettemellier.com/"
   },
   {
@@ -155,7 +155,7 @@ const REFERENCES = [
     titre: "Pinaffo & Pluvinage",
     description: "De très gros travaux d'installations (généralement en espace muséal), mélangeant beaucoup de couleurs et de matière (gros travail du bois).",
     categorie: "ARTS PLASTIQUES",
-    images: ["https://picsum.photos/seed/ref-015-1/640/480", "https://picsum.photos/seed/ref-015-2/640/480", "https://picsum.photos/seed/ref-015-3/640/480"],
+    images: ["https://freight.cargo.site/w/1702/q/94/i/919ac65ff9342daf69e5d93c53440183c8a3c174bb2b8d33d39cac0b231ace52/montage6.gif", "https://freight.cargo.site/w/2000/q/75/i/de2c68ba87b26eb2889d7dfe8bb1992fc10cba1331fa0521dd499a3af6067e58/Voutes-Volutes-Pinaffo_-_Pluvinage_3.jpg", "https://freight.cargo.site/w/1710/q/94/i/d37ca5e8dbf9b5d00d51638600802c8e81938f29b4520582b12c8d1e2cc99924/accueil-2.gif"],
     lien: "https://pinaffo-pluvinage.com/"
   },
   {
@@ -163,7 +163,7 @@ const REFERENCES = [
     titre: "Studio 5.5",
     description: "Studio multidisciplinaire, travaillant activement avec de grande marque et très réputé sur la scène française. Beaucoup de leurs projets sont des incontournables comme Nature & Découverte, Duralex ou Réanim.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-016-1/640/480", "https://picsum.photos/seed/ref-016-2/640/480", "https://picsum.photos/seed/ref-016-3/640/480"],
+    images: ["https://www.5-5.paris/public_data/diapo/projets/1516356318/3000/2015_print_your_duralex_760.jpg", "https://www.5-5.paris/public_data/diapo/projets/1515772576/3000/2003_reanim_protocolebequille_portrait.jpg", "https://www.5-5.paris/public_data/diapo/projets/1552490193/3000/19_03_13_nature_decouvertes061b.jpg"],
     lien: "https://www.5-5.paris/fr/"
   },
   {
@@ -171,7 +171,7 @@ const REFERENCES = [
     titre: "Studio Nucléo",
     description: "Connu pour son fauteuil Terra, ce studio mélange artisanat et arts plastiques par leurs expérimentations avec la transparence et la texture des matériaux.",
     categorie: "SOCIAL",
-    images: ["https://picsum.photos/seed/ref-017-1/640/480", "https://picsum.photos/seed/ref-017-2/640/480", "https://picsum.photos/seed/ref-017-3/640/480"],
+    images: ["https://nucleo.to/wp-content/uploads/2024/10/Studio-Nucleo_Terra_official-ph_high_03_blurb-1-1536x1029.jpg", "https://nucleo.to/wp-content/uploads/2024/11/cover-1-1440x824.jpg", "https://nucleo.to/wp-content/uploads/2020/05/Presenze_Vase_P2_Site-1440x916.jpg"],
     lien: "https://nucleo.to/"
   },
   {
@@ -179,7 +179,7 @@ const REFERENCES = [
     titre: "Front Design",
     description: "Ce groupe aime expérimenter au travers des logiciels et des possibilités qu'ils nous offre comme par le vase Blow ou les meubles Sketch Furnitures.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-018-1/640/480", "https://picsum.photos/seed/ref-018-2/640/480", "https://picsum.photos/seed/ref-018-3/640/480"],
+    images: ["http://www.frontdesign.se/media/project_images/BlowAwayVase_byFront_homepagebanner_wIlWqBU.jpg", "http://www.frontdesign.se/media/project_images/SketchFurniture_byFront_homepagebanner_1880_yxwsxOw.jpg", "http://www.frontdesign.se/media/project_images/DesignBy_byFront_projectimage_1880_6_ReGoBy8.jpg"],
     lien: "http://www.frontdesign.se/"
   },
   {
@@ -187,7 +187,7 @@ const REFERENCES = [
     titre: "Terrains Vagues",
     description: "Un atelier graphique faisant de très gros travaux colorés de communication au travers de multiples médiums.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-019-1/640/480", "https://picsum.photos/seed/ref-019-2/640/480", "https://picsum.photos/seed/ref-019-3/640/480"],
+    images: ["https://terrainsvagues.fr/wp-content/uploads/2023/06/GIF%E2%80%94KOOMA.mp4", "https://terrainsvagues.fr/wp-content/uploads/2022/11/MOCKUP-catalogue4-1024x655.jpg", "https://terrainsvagues.fr/wp-content/uploads/2022/01/06-voiceofthings-1024x683.png"],
     lien: "https://terrainsvagues.fr/"
   },
   {
@@ -195,7 +195,7 @@ const REFERENCES = [
     titre: "Ne Rougissez Pas !",
     description: "Elles sont plusieurs à travailler le design graphique comme outils rapprochant les gens. Leurs travaux permet aussi aux gens de s'approprier l'espace et de s'y sentir bien.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-020-1/640/480", "https://picsum.photos/seed/ref-020-2/640/480", "https://picsum.photos/seed/ref-020-3/640/480"],
+    images: ["https://nerougissezpas.fr/site/assets/files/7470/livret_jdp_bd_10.1280x0-srcset.webp", "https://nerougissezpas.fr/site/assets/files/7928/tract_une.1280x0-srcset.webp", "https://nerougissezpas.fr/site/assets/files/8627/couv_event_fb_bleu_banniere.1280x0-srcset.webp"],
     lien: "https://nerougissezpas.fr/"
   },
   {
@@ -203,7 +203,7 @@ const REFERENCES = [
     titre: "Poppy field",
     description: "Le site est pas particulièrement heureux mais c'est une superbe référence sur la datavisualisation grâce à Valentina D’Efilippo.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-021-1/640/480", "https://picsum.photos/seed/ref-021-2/640/480", "https://picsum.photos/seed/ref-021-3/640/480"],
+    images: ["https://www.poppyfield.org/img/PoppyField.jpg"],
     lien: "https://poppyfield.org/"
   },
   {
@@ -211,7 +211,7 @@ const REFERENCES = [
     titre: "Tessa Silva",
     description: "Cette créatrice mélange ses convictions et son art pour en faire des objets politique portant ainsi sa voix mais aussi celles des animaux exploités.",
     categorie: "ARTISANAT",
-    images: ["https://picsum.photos/seed/ref-022-1/640/480", "https://picsum.photos/seed/ref-022-2/640/480", "https://picsum.photos/seed/ref-022-3/640/480"],
+    images: ["https://images.squarespace-cdn.com/content/v1/53ce5eeae4b09f1cf081b990/c702eff9-c1c0-42f9-a666-eb3997dc64fb/collect+2026+exhibitions.jpg?format=1500w", "https://images.squarespace-cdn.com/content/v1/53ce5eeae4b09f1cf081b990/66248467-5d28-4a3a-ad8a-d32585f9d2fb/%E2%80%98Feminised+Protein+Loop%E2%80%99+sculpture%2C+off+white%2C+skimmed+milk%2C+Tessa+Silva.JPG?format=750w", "https://images.squarespace-cdn.com/content/v1/53ce5eeae4b09f1cf081b990/1731176152994-YOXSIQPW41R2HPIDWRSZ/IMG_0059.JPG?format=750w"],
     lien: "https://www.tessasilva.com/"
   },
   {
@@ -227,7 +227,7 @@ const REFERENCES = [
     titre: "Écouter pour voir",
     description: "L'Atelier Graphique fait de gros projets d'identité visuelle et de design graphique.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-024-1/640/480", "https://picsum.photos/seed/ref-024-2/640/480", "https://picsum.photos/seed/ref-024-3/640/480"],
+    images: ["https://ecouter-pour-voir.net/sites/default/files/projets/ondif_diapo.gif", "https://ecouter-pour-voir.net/sites/default/files/styles/large/public/projets/superpo_5_0.jpg?itok=gx2NHTc0", "https://ecouter-pour-voir.net/sites/default/files/styles/medium/public/projets/korea_edition_1.jpg?itok=rqxbNh4L"],
     lien: "https://ecouter-pour-voir.net/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnhNulmHrMPqGcsf7fXQOp7JrNdTY4D9rW-_T3a3uwfUp2WrqQcyXqC3bge3k_aem_1jnCHtUFx7IcHdW78vtpBQ"
   },
   {
@@ -235,7 +235,7 @@ const REFERENCES = [
     titre: "Humaniteam",
     description: "HUMANITEAM est une agence de design en santé et d’innovation sociale. Ils accompagnent les organisations de santé dans leurs projets d'innovation pour faciliter le parcours patient et l'accès au soin.",
     categorie: "SOCIAL",
-    images: ["https://picsum.photos/seed/ref-025-1/640/480", "https://picsum.photos/seed/ref-025-2/640/480", "https://picsum.photos/seed/ref-025-3/640/480"],
+    images: ["https://humaniteam-design.com/wp-content/uploads/2024/02/FRESQUE_GRAPHIQUE_DESIGN_HOPITAL.png", "https://humaniteam-design.com/wp-content/uploads/2020/02/HUMANITEAM-%C3%80-CORPS-%C3%80-CRU-%C3%89QUITH%C3%89RAPIE-1.jpg", "https://humaniteam-design.com/wp-content/uploads/2020/02/BOCCIA8.jpg"],
     lien: "https://humaniteam-design.com/"
   },
   {
@@ -243,15 +243,15 @@ const REFERENCES = [
     titre: "Malte Martin - Agrafmobil",
     description: "L’association agrafmobile a pour objet de créer et d'organiser des événements artistiques tant dans le domaine des arts visuels que dans celui du spectacle vivant. Elle intègre ainsi la possibilité du croisement des approches entre plasticiens, chorégraphes, metteurs en scène et autres auteurs. Elle privilégie des interventions qui s'intègrent dans l’espace urbain et rend accessible la création contemporaine à un large public.",
     categorie: "ARTS PLASTIQUES",
-    images: ["https://picsum.photos/seed/ref-026-1/640/480", "https://picsum.photos/seed/ref-026-2/640/480", "https://picsum.photos/seed/ref-026-3/640/480"],
-    lien: ""
+    images: ["https://agrafmobile.net/sites/default/files/projets/lv_diapo.gif", "https://agrafmobile.net/sites/default/files/styles/medium/public/projets/im_2004_7_0.jpg?itok=Gqjkw-Yn", "https://agrafmobile.net/sites/default/files/styles/medium/public/projets/qdn_3.jpg?itok=I59eOATd"],
+    lien: "https://agrafmobile.net/"
   },
   {
     id: "ref-027",
     titre: "Collectif Etc",
     description: "Ce collectif ancré dans un design d'espace par leurs architectures, espaces publics, installations artistiques et scénographies. Ils sont un peu tout à la fois architecte, artiste et artisan, s’emploie à requestionner ces différentes compétences, en proposant des réponses créatives, décalées, joyeuses et constructives, aux questions que posent l’aménagement des espaces collectifs, en milieu urbain ou rural.",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-027-1/640/480", "https://picsum.photos/seed/ref-027-2/640/480", "https://picsum.photos/seed/ref-027-3/640/480"],
+    images: ["https://www.collectifetc.com/wp-content/uploads/2023/02/collectif-etc-mas-chabans-1500pxweb-6.jpg", "https://www.collectifetc.com/wp-content/uploads/2014/06/Collectif-Etc-Aulnay-Gerad-Philipe-37.jpg", "https://www.collectifetc.com/wp-content/uploads/2012/10/Collectif_ETC_Detour_de_France_Bruxelles_591.jpg"],
     lien: "https://www.collectifetc.com/"
   },
   {
@@ -259,7 +259,7 @@ const REFERENCES = [
     titre: "Sara de Gouy",
     description: "Architecte, designer d’espace et artiste, elle se saisit de chaque opportunité pour concevoir une réponse basé sur l’inventivité, l’écoute et la curiosité.",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-028-1/640/480", "https://picsum.photos/seed/ref-028-2/640/480", "https://picsum.photos/seed/ref-028-3/640/480"],
+    images: ["https://www.saradegouy.com/wp-content/uploads/bfi_thumb/sara-de-gouy-sorbiers-6-7ht8uup9n0mrgjbb7s0hf7mq5jzs9atrvm72n89ohz9.jpg", "https://www.saradegouy.com/wp-content/uploads/bfi_thumb/sara-de-gouy-le-banc-a-palabres-banc-design-unieux-1-6qx3virlhvxqkf2bx3pr40glfvhtw7dj1d9udwrsa2n.jpg", "https://www.saradegouy.com/wp-content/uploads/bfi_thumb/sara-de-gouy-bureaux-lyon-metropole-habitat-design-lyon-1-6qwoumf9d85kh6aztwors88ljbyj1l9oeu4intnm57r.jpg"],
     lien: "https://www.saradegouy.com/"
   },
   {
@@ -267,7 +267,7 @@ const REFERENCES = [
     titre: "Studio Petra Vonk",
     description: "Ce studio essaye de dépasser les usages traditionnels du tissu pour leur donner une fonction dans l'espace laissant ainsi aussi les fonction de réduction de bruit des tissus servir avec esthétique.",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-029-1/640/480", "https://picsum.photos/seed/ref-029-2/640/480", "https://picsum.photos/seed/ref-029-3/640/480"],
+    images: ["https://images.squarespace-cdn.com/content/v1/606db57105114b552b3a10e2/c6c82850-2086-4a1c-8502-2f2fb580c62f/Plectere+Re_play+at+BDO+Rotterdam+by+MplusR+architecten.jpg?format=1500w", "https://images.squarespace-cdn.com/content/v1/606db57105114b552b3a10e2/00dd93dd-dd24-47a9-9efa-8f6d0c7d6edd/StudioPetraVonk+PLECTERE+acoustic+textile+tube+1.jpg?format=750w", "https://images.squarespace-cdn.com/content/v1/606db57105114b552b3a10e2/95360f12-9de7-4b3a-a910-b2ecc250bd10/StudioPetraVonk+School+cladding+with+intergrated+lace+knit.jpg?format=1500w"],
     lien: "https://www.petravonk.nl/"
   },
   {
@@ -275,7 +275,7 @@ const REFERENCES = [
     titre: "smarin - Stéphanie Marin",
     description: "Stéphanie Marin est une designer qui met au coeur de son travail des objets modulables mettant en avant par la même occasion, les matières bois, tissu et  liège. Par ces créations, elle crée des rythmes au seins des espaces du quotidien qui s'adaptent à chacun et aux changement d'une vie.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-030-1/640/480", "https://picsum.photos/seed/ref-030-2/640/480", "https://picsum.photos/seed/ref-030-3/640/480"],
+    images: ["https://www.smarin.net/files/photo/medium/1606301203-5446.gif?v=1606301226", "https://www.smarin.net/files/photo/medium/1607013715-5882.jpg?v=1607013716", "https://www.smarin.net/files/photo/medium/1701252475-2757.jpg?v=1701252475"],
     lien: "https://www.smarin.net/fr/"
   },
   {
@@ -283,15 +283,15 @@ const REFERENCES = [
     titre: "Distaff Studio",
     description: "Gros travail graphique et typographique allant de la simple affiche, à la signalétique dans les musées en passant par de l'édition. Elles travaillent dans un univers baignée dans la culture et l'art.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-031-1/640/480", "https://picsum.photos/seed/ref-031-2/640/480", "https://picsum.photos/seed/ref-031-3/640/480"],
+    images: ["https://distaff.studio/media/pages/media/e25f16725c-1716975566/HYBRIS_Startseite.mp4", "https://distaff.studio/media/pages/media/3629aa3e23-1707304675/fyv-kindertransport-poster-big-1-2880x-q84.webp", "https://distaff.studio/media/pages/media/81523962f8-1709463530/specology-1-x2200-q84.webp"],
     lien: "https://distaff.studio/"
   },
   {
     id: "ref-032",
     titre: "SUPERCONTINENT VE GmbH",
-    description: "Ce studio a une esthétique très puissante qui a su séduire de très grande marque pour qu'ils leur réalisent des motions profonds.",
+    description: "Ce studio a une esthétique très puissante qui a su séduire de très grande marque pour qu'ils leur réalisent des motions et cinématiques profondes.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-032-1/640/480", "https://picsum.photos/seed/ref-032-2/640/480", "https://picsum.photos/seed/ref-032-3/640/480"],
+    images: ["https://spc.co/wp-content/uploads/2023/08/compressed_0006_Doja-Cat-Paint-The-Town-Red-Official-Video-0026-1600x900.jpg", "https://spc.co/wp-content/uploads/2024/07/Kendrick-Lamar-Not-Like-Us-0016-aspect-ratio-16-9.png", "https://spc.co/wp-content/uploads/2023/10/Teezo-Touchdown-Impossible-Official-Video-0006-aspect-ratio-16-9.png"],
     lien: "https://spc.co/#works"
   },
   {
@@ -299,7 +299,7 @@ const REFERENCES = [
     titre: "Leo Toronto",
     description: "Connu pour leur collaboration avec IKEA pour Cook This Page, ce studio fait énormément de publicité et de campagne de prévention au travers de cinématique et motions.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-033-1/640/480", "https://picsum.photos/seed/ref-033-2/640/480", "https://picsum.photos/seed/ref-033-3/640/480"],
+    images: ["https://leotoronto.com/wp-content/uploads/2025/05/ikea-food-58d95435d5ce8.jpg", "https://leotoronto.com/wp-content/uploads/2025/05/2025-0512-lfsq53d3g-cheat-on-your-cheeseburger-promo-image-1-1-.png", "https://leotoronto.com/wp-content/uploads/2025/05/2022-0115-jzidpfp7m-genderless-poster-supporting-img-03sm.png"],
     lien: "https://leotoronto.com/"
   },
   {
@@ -307,7 +307,7 @@ const REFERENCES = [
     titre: "Androlus Studio",
     description: "Pauline Androlus crée des produits accès sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-034-1/640/480", "https://picsum.photos/seed/ref-034-2/640/480", "https://picsum.photos/seed/ref-034-3/640/480"],
+    images: ["https://androlusstudio.com/project/fr/cintre-25--baladeuse-recto-verso", "https://androlusstudio.com/project/fr/kendo--verre-de-nuit", "https://androlusstudio.com/project/fr/inlandsis--organiseur"],
     lien: "https://androlusstudio.com/fr"
   },
   {
@@ -315,7 +315,7 @@ const REFERENCES = [
     titre: "Les frères Bouroullec",
     description: "Ce duo de frères sont très connus, particulièrement pour leur travaux modulables comme les Vases Combinatoires ou ALgues.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-035-1/640/480", "https://picsum.photos/seed/ref-035-2/640/480", "https://picsum.photos/seed/ref-035-3/640/480"],
+    images: ["https://www.bouroullec.com/upload/medias_site/f10_1.bd.combinatoryensemble_medium.jpg", "https://www.bouroullec.com/upload/medias_site/f25_1hd.nuages2mudam_medium.jpg", "https://www.bouroullec.com/upload/medias_site/f82_bouroullecroubaixexhibition_large.jpg"],
     lien: "https://www.bouroullec.com/"
   },
   {
@@ -323,7 +323,7 @@ const REFERENCES = [
     titre: "Maarten Baas",
     description: "Son travail, à la limite entre art plastique et design, mélangeant installations, artisanat et performance.",
     categorie: "ARTS PLASTIQUES",
-    images: ["https://picsum.photos/seed/ref-036-1/640/480", "https://picsum.photos/seed/ref-036-2/640/480", "https://picsum.photos/seed/ref-036-3/640/480"],
+    images: ["https://maartenbaas.com/cdn/shop/products/210922123404_n_mob.jpg?v=1675862653&width=720", "https://maartenbaas.com/cdn/shop/products/Pag-026A_Clay-chairs_credits-Marielle-Leenders.jpg?v=1676305395&width=720", "https://maartenbaas.com/cdn/shop/products/5e6d975ae5e6871ac25a09b1384f50e0j.jpg?v=1696358467&width=720"],
     lien: "https://maartenbaas.com/"
   },
   {
@@ -331,7 +331,7 @@ const REFERENCES = [
     titre: "Les Sismo",
     description: "Les Sismo, une agence de design qui, au travers de projets, concrétise la transformation des organisations face aux enjeux du XXIe siècle grâce au design with care.",
     categorie: "ARTISANAT",
-    images: ["https://picsum.photos/seed/ref-037-1/640/480", "https://picsum.photos/seed/ref-037-2/640/480", "https://picsum.photos/seed/ref-037-3/640/480"],
+    images: ["https://www.les-sismo.com/media/CNSA/cnsa-urgences-bandeau-1_hu_c729a6f420744ec7.webp", "https://www.les-sismo.com/media/Bouygues-jardins/bouygues-immo-jardins-bandeau-1_hu_3ce0f48ad90e5e9e.webp", "https://www.les-sismo.com/media/Lille-2020/lille-2020-bandeau-1_hu_db7a69ba2ce1ecca.webp"],
     lien: "https://www.les-sismo.com/"
   },
   {
@@ -339,7 +339,7 @@ const REFERENCES = [
     titre: "Collectif Yakafokon",
     description: "Le collectif yakafokon rassemble architectes, artistes, constructeur·ices, qui explorent les champs de la conception-réalisation dans les domaines du design, de l’architecture, de l’urbanisme et expérimentent des processus de création collaboratifs à différentes échelles, des ateliers de conception, des chantiers ouverts et des résidences artistiques.",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-038-1/640/480", "https://picsum.photos/seed/ref-038-2/640/480", "https://picsum.photos/seed/ref-038-3/640/480"],
+    images: ["https://freight.cargo.site/w/1600/q/94/i/5de4334732c329ede3e0876cfb45709e139f5f8e81bf9f753c7e01a3a9d0cc80/c8ac17c8-5a55-4e38-b584-3c0e0908d207.jpg", "https://freight.cargo.site/w/2480/q/75/i/cd589bcdb171da3d072f93590e7d2ae516cde1f8205176bebe1d0d76a5f06335/20201115_axo-02-1.jpg", "https://freight.cargo.site/w/2000/q/75/i/db249cbe5e225d3ae5f632eeec2ba293f545b1ac8d23a8a16be050e4f39f4c2a/USEIT_ROUEN_VERSION_WEB-1.jpg"],
     lien: "https://collectifyakafokon.com/"
   },
   {
@@ -347,7 +347,7 @@ const REFERENCES = [
     titre: "YA+K",
     description: "Ce collectif d'architectes a une pratique qui est au coeur de l'innovation sociale par leur idée de réemploi, de réhabilitation, de co-construction et d'éco-construction.",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-039-1/640/480", "https://picsum.photos/seed/ref-039-2/640/480", "https://picsum.photos/seed/ref-039-3/640/480"],
+    images: ["https://yaplusk.org/wp-content/uploads/2024/11/YAK-Aglaebory-3.png", "https://yaplusk.org/wp-content/uploads/2016/12/JVS-YAK-9.jpg", "https://yaplusk.org/wp-content/uploads/2024/09/Bd-Coquibus-YAK.jpg"],
     lien: "https://yaplusk.org/"
   },
   {
@@ -355,7 +355,7 @@ const REFERENCES = [
     titre: "Pierre Charrié",
     description: "Pierre Charrié est fasciné par la dimension sensorielle des objets du quotidien et explore la manière dont les matériaux, les sons ou les gestes peuvent créer de nouvelles interactions et transcender l’ordinaire.",
     categorie: "OBJET",
-    images: ["https://picsum.photos/seed/ref-040-1/640/480", "https://picsum.photos/seed/ref-040-2/640/480", "https://picsum.photos/seed/ref-040-3/640/480"],
+    images: ["https://www.pierrecharrie.com/wp-content/uploads/2021/11/Pierre_Charrie_MoCo_02.jpg", "https://www.pierrecharrie.com/wp-content/uploads/2024/08/Pierre_Charrie_Niskala_Batuan_04.jpg", "https://www.pierrecharrie.com/wp-content/uploads/2025/01/Pierre_Charrie_Phonemes_01.jpg"],
     lien: "https://www.pierrecharrie.com/"
   },
   {
@@ -363,7 +363,7 @@ const REFERENCES = [
     titre: "Olivier Vadrot",
     description: "Si certains de ces dispositifs sont nomades, reproductibles et éphémères, réduits à des formes essentielles et réalisés dans des matériaux peu coûteux, d’autres ont été plus durablement implantés dans l’espace public (Conversations, 2018 ; Orchestre, 2018 ; Les Fossiles, 2020).",
     categorie: "ESPACE",
-    images: ["https://picsum.photos/seed/ref-041-1/640/480", "https://picsum.photos/seed/ref-041-2/640/480", "https://picsum.photos/seed/ref-041-3/640/480"],
+    images: ["https://vadrot.com/media/pages/projets/tuk-tuk/4f1d733722-1772665524/olivier_vadrot_tuk-tuk_01.jpg", "https://vadrot.com/media/pages/projets/escalier-et-chevalets/f0208c11e5-1772572936/olivier_vadrot_chevalets_oise_5.jpg", "https://vadrot.com/media/pages/projets/kiosk/25afb912a6-1658340188/olivier_vadrot_kiosquefrac_04.jpg"],
     lien: "https://vadrot.com/fr"
   },
   {
@@ -371,7 +371,7 @@ const REFERENCES = [
     titre: "Kamonchanok Wongwiboonsat",
     description: "Issu d'une famille cultivant le riz, c'est après son dîplome, en retournant chez ses parents, que Kamonchanok Wongwiboonsat découvre la vrai valeur du riz et ses qualité comme matériaux versatil pouvant être moulé comme du béton ou transformé en tissu.",
     categorie: "ARTISANAT",
-    images: ["https://picsum.photos/seed/ref-042-1/640/480", "https://picsum.photos/seed/ref-042-2/640/480", "https://picsum.photos/seed/ref-042-3/640/480"],
+    images: ["https://static.wixstatic.com/media/d87882_c1e8fb2eedc740b484ddfcffd3f6c68b~mv2.jpg/v1/fill/w_1024,h_517,al_c,q_85,enc_avif,quality_auto/1DC0C206-F846-4D11-B456-88ED870B38CF_1_105_c%20copy.jpg", "https://static.wixstatic.com/media/d87882_6ee9310fac20465cb20ccb5a1efa4623~mv2.jpg/v1/fill/w_2538,h_1112,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/new.jpg", "https://static.wixstatic.com/media/d87882_c72d763c1a284453803682ab0f63204d~mv2.jpg/v1/fill/w_780,h_1023,al_c,q_85,enc_avif,quality_auto/332040038_896812334874380_1756535456544383091_n%20copy.jpg"],
     lien: "https://korairlorbor.wixstudio.com/kalbstudio"
   },
   {
@@ -379,7 +379,7 @@ const REFERENCES = [
     titre: "Stacey Thomas",
     description: "De gros travaaux d'illustration centré sur la nature dans un univers très doux et rassurant. Elle s'inspire notamment de musée, de la nature, de jeux de société, de l'artisanat et de folklores.",
     categorie: "ILLUSTRATION",
-    images: ["https://picsum.photos/seed/ref-043-1/640/480", "https://picsum.photos/seed/ref-043-2/640/480", "https://picsum.photos/seed/ref-043-3/640/480"],
+    images: ["https://cdn.myportfolio.com/4ee1f068-30ca-47e2-819b-10084059651b/8603f733-7418-44fa-9a01-814f9d045647_rw_3840.jpg?h=27e246552c3d44f494d04dc16eb0e249", "https://cdn.myportfolio.com/4ee1f068-30ca-47e2-819b-10084059651b/276e0a08-4a7d-485e-b0ff-2097d928d06a_rw_3840.jpg?h=73e2e2c52705694adcbc3b7058d2aa28", "https://cdn.myportfolio.com/4ee1f068-30ca-47e2-819b-10084059651b/5a73cac4-1ca3-4e64-9c8a-a7c256e62ec0_rw_1920.jpg?h=ee05af8f1c75e632ce022b63caa2195f"],
     lien: "https://staceythomasmakes.com/"
   },
   {
@@ -387,7 +387,7 @@ const REFERENCES = [
     titre: "Camille Circlude",
     description: "Rien de plus politique que le language, Camille Circlude l'a bien compris et essaye au travers de ses typographies et de ses travaux graphiques de dépasser les limites du language oral et du genre. Ses typographies sont téléchargeables sur le site Bye Bye Binary.",
     categorie: "GRAPHISME",
-    images: ["https://picsum.photos/seed/ref-044-1/640/480", "https://picsum.photos/seed/ref-044-2/640/480", "https://picsum.photos/seed/ref-044-3/640/480"],
+    images: ["https://camillecirclude.be/wp-content/uploads/2025/12/m5050_arc_20220908_museographie_extra_herve_veronese_-3376.jpg", "https://camillecirclude.be/wp-content/uploads/2025/12/9_2022_extra_bbb_cc_tb_9-1350x1800.jpg", "https://camillecirclude.be/wp-content/uploads/2025/12/1_2022_extra_bbb_cc_tb_1-1350x1800.jpg"],
     lien: "https://camillecirclude.be/"
   },
   {
@@ -395,7 +395,7 @@ const REFERENCES = [
     titre: "Natasha Durley",
     description: "Natasha Burley a un travail très coloré centré sur la nature avec de grands projets autours des animaux qu'elles réimaginent très colorés.",
     categorie: "ILLUSTRATION",
-    images: ["https://picsum.photos/seed/ref-045-1/640/480", "https://picsum.photos/seed/ref-045-2/640/480", "https://picsum.photos/seed/ref-045-3/640/480"],
+    images: ["https://static.wixstatic.com/media/734fdb_bd0174fcc4b8489a92d596af4fc9bfb6~mv2.gif?dn=tiny-fish-by-Natasha-Durley.gif", "https://static.wixstatic.com/media/734fdb_111afe568cb24bb299baba60c99a37cc~mv2.jpg/v1/fill/w_2000,h_1351,al_t,q_90,enc_avif,quality_auto/734fdb_111afe568cb24bb299baba60c99a37cc~mv2.jpg", "https://static.wixstatic.com/media/734fdb_0e6befd82317497191e587ef0dcae6bc~mv2.jpg?dn=Gobi desert-Habitat collection-art print-sunny beast.jpg"],
     lien: "https://www.natashadurley.com/"
   },
   {
