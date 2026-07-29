@@ -403,7 +403,7 @@ const REFERENCES = [
     titre: "Owen Davey",
     description: "Travaux d'illustration colorés sur les animaux et la nature principalement, dans un style géométrique.",
     categorie: "ILLUSTRATION",
-    images: ["https://picsum.photos/seed/ref-046-1/640/480", "https://picsum.photos/seed/ref-046-2/640/480", "https://picsum.photos/seed/ref-046-3/640/480"],
+    images: ["https://freight.cargo.site/w/400/q/75/i/e4407a61ad48e1e993a7e1201920a21f1c3fffaf9358c45b04ece331411a2d11/Djeco-Tableaux-Cinetique-1-2.jpg", "https://freight.cargo.site/w/400/q/75/i/bbac9d6266404018b88a176b4e57eb5f0a6a621e92d8dc555643945f213ded56/Djeco-Wizard-Box-72.png", "https://freight.cargo.site/w/400/q/75/i/05e9c61148d7b4295ed11c9a58e775cd3d95bb7e4393476b7ae7a46ee3f4c8d9/prt_270x160_1572822705_2x.jpg"],
     lien: "https://owendavey.com/"
   },
   {
@@ -411,7 +411,7 @@ const REFERENCES = [
     titre: "La Bonneterie",
     description: "Ils y plein de trucs à base de bois et de métal, ils se forment à différentes techniques suivant les intervenant.e.s, ils répètent, ils dorment, ils y brassent de la bière, on imprime ou ils floquent des vêtement. Ce lieu devient vraiment un lieu de rencontre et de co-création ressemblant à un fablab.",
     categorie: "SOCIAL",
-    images: ["https://picsum.photos/seed/ref-047-1/640/480", "https://picsum.photos/seed/ref-047-2/640/480", "https://picsum.photos/seed/ref-047-3/640/480"],
+    images: ["https://freight.cargo.site/w/1500/q/75/i/870976c2a0f373928125ca9dc787f2f42168b52add4878523c39915d33f968a0/DSC_0019.JPG", "https://freight.cargo.site/w/1280/q/75/i/47930c8d37711a0d52a95262c678c992771895c0e706d486180ca3948cd1c032/2021.05.23_sotmoIV_nouveau_monde_brigou_8482.jpg", "https://freight.cargo.site/w/1500/q/75/i/db20a19190e620062821f8bb4e4312a55066a4075708578c1f0c60b3ace4c8f9/IMG-1615.JPG"],
     lien: "https://labonneterie.be/"
   },
   {
@@ -419,15 +419,15 @@ const REFERENCES = [
     titre: "Milla Vaahtera",
     description: "Milla Vaahtera est une artiste designer d'objet et artisane du métal dont le travail sculptural mène souvent à la création de luminaires. Mélangeant des forment très organiques et des matériaux froids comme le verre ou le métal, elle crée un réel oxymore au travers de son art.",
     categorie: "ARTISANAT",
-    images: ["https://picsum.photos/seed/ref-048-1/640/480", "https://picsum.photos/seed/ref-048-2/640/480", "https://picsum.photos/seed/ref-048-3/640/480"],
-    lien: "https://www.instagram.com/millavaahtera/"
+    images: ["https://freight.cargo.site/w/2000/q/75/i/Z2986211990479386457141951886195/Atlas-ripustus.jpg", "https://freight.cargo.site/w/500/q/75/i/E2354674965894468014159762060147/MillaVaahtera_Nuutajarvi_2024_cHannakaisaPekkala-53.jpg", "https://freight.cargo.site/w/3000/q/75/i/W2369228224263087412694576296819/Milla-Vaahtera---Lintumaa-Installation--Hannakaisa-Pekkala-114.jpg"],
+    lien: "https://millavaahtera.com/northern-alps"
   },
   {
     id: "ref-049",
     titre: "Lorenzo Mattotti",
-    description: "C’est son sens du trait comme de la couleur qui a permis à l’artiste de construire une oeuvre aux facettes multiples – bande dessinée, cinéma d’animation, peinture, dessin – en façonnant au gré de ses propres expériences, un langage unique.",
+    description: "C’est son sens du trait comme de la couleur qui a permis à l’artiste de construire une oeuvre aux facettes multiples – bande dessinée, cinéma d’animation, peinture, dessin – en façonnant au gré de ses propres expériences, un langage unique. Il a notamment réillustré le conte d'Hansel & Gretel fait entièrement à l'encre de chine.",
     categorie: "ILLUSTRATION",
-    images: ["https://picsum.photos/seed/ref-049-1/640/480", "https://picsum.photos/seed/ref-049-2/640/480", "https://picsum.photos/seed/ref-049-3/640/480"],
+    images: ["https://www.dordogne.fr/fileadmin/_processed_/4/3/csm_Visuel_Lorenzo_Mattotti_70a44a5ba2.jpg", "https://cdn.artcld.com/img/w_640,h_640,c_pad,b_ffffff/3tgqrijuulwqyfs66jr6.jpg", "https://cdn.artcld.com/img/w_640,h_640,c_pad,b_ffffff/wt4vros40ayenaybr7ob.jpg"],
     lien: "https://www.instagram.com/lorenzomattotti/?hl=fr"
   },
   {
@@ -435,7 +435,7 @@ const REFERENCES = [
     titre: "Studio Samuel Tomatis",
     description: "La Bretagne et son écosystème est la base toute sa réflexion autour des matériaux que Samuel Tomatis et son équipe conçoivent grâce aux algues qui pullulent sur les plages de Bretagne.",
     categorie: "ARTISANAT",
-    images: ["https://picsum.photos/seed/ref-050-1/640/480", "https://picsum.photos/seed/ref-050-2/640/480", "https://picsum.photos/seed/ref-050-3/640/480"],
+    images: ["https://www.studiosamueltomatis.com/media/pages/projects/contenants/6fcfed0f57-1784873209/contenants-alimentaire-22-studio-samuel-tomatis-design-materiaux-algue-alg-seaweed-biomaterial-1200x.webp", "https://www.studiosamueltomatis.com/media/pages/projects/vannerie/6f17d21cf3-1784873155/vannerie-1-studio-samuel-tomatis-design-materiaux-algue-alg-seaweed-biomaterial.jpg", "https://www.studiosamueltomatis.com/media/pages/projects/papier/dd4d1149ac-1784873196/papier-1-studio-samuel-tomatis-design-materiaux-algue-alg-seaweed-biomaterial.jpg"],
     lien: "https://www.studiosamueltomatis.com/"
   },
   {
