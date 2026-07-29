@@ -693,7 +693,6 @@ const RESOURCES = {
     { nom: "Google Fonts", domaine: "fonts.google.com", description: "Bibliothèque de polices libres de droits, à intégrer facilement au web.", lien: "https://fonts.google.com" },
     { nom: "Font Squirrel", domaine: "fontsquirrel.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://www.fontsquirrel.com" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
-     
     { nom: "NBR Type", domaine: "noirblancrouge.com", description: "Polices de caractères commerciales et développent des familles open source. Pensent que la qualité typographique doit être accessible à tous.", lien: "https://noirblancrouge.com/" },
     { nom: "HT Fonts", domaine: "htfonts.com", description: "Polices de caractères personnalisées et commerciales, offrant des options de licence flexibles, notamment les licences Libre (Open Source), Propriétaire et Exclusive.", lien: "https://htfonts.com/en/" },
     { nom: "Omnibus", domaine: "omnibus-type.com", description: "Développement collaboratif de polices gratuites.", lien: "hhttps://www.omnibus-type.com/" },
@@ -712,7 +711,7 @@ const RESOURCES = {
     { nom: "Font Squirrel", domaine: "fontsquirrel.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://www.fontsquirrel.com" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
     { nom: "Font Squirrel", domaine: "fontsquirrel.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://www.fontsquirrel.com" },
-    { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
+    { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" }
     // ➜ Ajoutez vos sites de typographie ici.
   ],
   mockups: [
