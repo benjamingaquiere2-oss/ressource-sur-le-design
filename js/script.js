@@ -129,7 +129,7 @@ const REFERENCES = [
   {
     id: "ref-012",
     titre: "Formes Vives",
-    description: "Même si ce groupe n'hexiste plus, leur travail reste majeur sur la scène française de l'identité visuelle. Leurs nombreux travaux vont plus loin que du graphisme et sont travaillés au travers de plusieurs outils et techniques.",
+    description: "Même si ce groupe n'existe plus, leur travail reste majeur sur la scène française de l'identité visuelle. Leurs nombreux travaux vont plus loin que du graphisme et sont travaillés au travers de plusieurs outils et techniques.",
     categorie: "GRAPHISME",
     images: ["https://www.formes-vives.org/images/public/FormesVives-13Vents-2021-aff_saison-2020.jpg", "https://www.formes-vives.org/images/public/FormesVives-13Vents-1920-Prog2001.jpg", "https://www.formes-vives.org/atelier/public/sceno-installations/BarreauCharbonnet-Fichtre-FormesVives-StudioPlage-Sion-2018.jpg"],
     lien: "https://www.formes-vives.org/images/"
@@ -137,7 +137,7 @@ const REFERENCES = [
   {
     id: "ref-013",
     titre: "Studio François Azembourg",
-    description: "Travail des objets d'une manière très sculturale avec des productions bordant l'oeuvre d'art. François Azembourg est notamment connu pour ces vases Douglas.",
+    description: "Travail des objets d'une manière très sculpturale avec des productions bordant l'oeuvre d'art. François Azembourg est notamment connu pour ses vases Douglas.",
     categorie: "OBJET",
     images: ["https://azambourg.com/wp-content/uploads/2016/12/Vase-noir-rvb-e1516791229187.jpg", "https://azambourg.com/wp-content/uploads/2023/03/boisfendu-web.jpg", "https://azambourg.com/wp-content/uploads/2023/02/francois-azambourg-ciav-metamorfoses-2-copie-e1677163528401.jpg"],
     lien: "https://azambourg.com/"
@@ -161,7 +161,7 @@ const REFERENCES = [
   {
     id: "ref-016",
     titre: "Studio 5.5",
-    description: "Studio multidisciplinaire, travaillant activement avec de grande marque et très réputé sur la scène française. Beaucoup de leurs projets sont des incontournables comme Nature & Découverte, Duralex ou Réanim.",
+    description: "Studio multidisciplinaire, travaillant activement avec de grandes marques et très réputé sur la scène française. Beaucoup de leurs projets sont des incontournables comme Nature & Découverte, Duralex ou Réanim.",
     categorie: "OBJET",
     images: ["https://www.5-5.paris/public_data/diapo/projets/1516356318/3000/2015_print_your_duralex_760.jpg", "https://www.5-5.paris/public_data/diapo/projets/1515772576/3000/2003_reanim_protocolebequille_portrait.jpg", "https://www.5-5.paris/public_data/diapo/projets/1552490193/3000/19_03_13_nature_decouvertes061b.jpg"],
     lien: "https://www.5-5.paris/fr/"
@@ -177,7 +177,7 @@ const REFERENCES = [
   {
     id: "ref-018",
     titre: "Front Design",
-    description: "Ce groupe aime expérimenter au travers des logiciels et des possibilités qu'ils nous offre comme par le vase Blow ou les meubles Sketch Furnitures.",
+    description: "Ce groupe aime expérimenter au travers des logiciels et des possibilités qu'ils nous offrent comme par le vase Blow ou les meubles Sketch Furnitures.",
     categorie: "OBJET",
     images: ["https://www.friedmanbenda.com/wp-content/uploads/2021/09/Front_Sketch-Chair-Rectangualr-Back-White_2000x1500-1024x768.jpg", "https://moroso.it/app/uploads/2014/01/cover1-4.jpg", "https://moroso.it/app/uploads/2026/05/Product-Diorama-Slider.jpg"],
     lien: "http://www.frontdesign.se/"
@@ -193,7 +193,7 @@ const REFERENCES = [
   {
     id: "ref-020",
     titre: "Ne Rougissez Pas !",
-    description: "Elles sont plusieurs à travailler le design graphique comme outils rapprochant les gens. Leurs travaux permet aussi aux gens de s'approprier l'espace et de s'y sentir bien.",
+    description: "Elles sont plusieurs à travailler le design graphique comme outils rapprochant les gens. Leurs travaux permettent aussi aux gens de s'approprier l'espace et de s'y sentir bien.",
     categorie: "OBJET",
     images: ["https://nerougissezpas.fr/site/assets/files/7470/livret_jdp_bd_10.1280x0-srcset.webp", "https://nerougissezpas.fr/site/assets/files/7928/tract_une.1280x0-srcset.webp", "https://nerougissezpas.fr/site/assets/files/8627/couv_event_fb_bleu_banniere.1280x0-srcset.webp"],
     lien: "https://nerougissezpas.fr/"
@@ -201,7 +201,7 @@ const REFERENCES = [
   {
     id: "ref-021",
     titre: "Poppy field",
-    description: "Le site est pas particulièrement heureux mais c'est une superbe référence sur la datavisualisation grâce à Valentina D’Efilippo.",
+    description: "Le site n'est pas particulièrement heureux mais c'est une superbe référence sur la datavisualisation grâce à Valentina D’Efilippo.",
     categorie: "GRAPHISME",
     images: ["https://www.poppyfield.org/img/PoppyField.jpg"],
     lien: "https://poppyfield.org/"
@@ -273,7 +273,7 @@ const REFERENCES = [
   {
     id: "ref-030",
     titre: "smarin - Stéphanie Marin",
-    description: "Stéphanie Marin est une designer qui met au coeur de son travail des objets modulables mettant en avant par la même occasion, les matières bois, tissu et  liège. Par ces créations, elle crée des rythmes au seins des espaces du quotidien qui s'adaptent à chacun et aux changement d'une vie.",
+    description: "Stéphanie Marin est une designer qui met au coeur de son travail des objets modulables mettant en avant par la même occasion, les matières bois, tissu et  liège. Par ces créations, elle crée des rythmes au sein des espaces du quotidien qui s'adaptent à chacun et aux changement d'une vie.",
     categorie: "OBJET",
     images: ["https://www.smarin.net/files/photo/medium/1606301203-5446.gif?v=1606301226", "https://www.smarin.net/files/photo/medium/1607013715-5882.jpg?v=1607013716", "https://www.smarin.net/files/photo/medium/1701252475-2757.jpg?v=1701252475"],
     lien: "https://www.smarin.net/fr/"
@@ -305,7 +305,7 @@ const REFERENCES = [
   {
     id: "ref-034",
     titre: "Androlus Studio",
-    description: "Pauline Androlus crée des produits accès sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
+    description: "Pauline Androlus crée des produits axés sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
     categorie: "OBJET",
     images: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9gMIQHblMsT9Rl41CKSgrOPE1J5P9uArn0U-tpVnxA&s=10", "https://www.ladn.eu/wp-content/uploads/2022/07/collection-vaisselle-linge-table-malvoyants-aveugles.5.png", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28MOioyW9nP3r1TwOPGtYd7KZBMbT4XVyFDfFSk1BNA&s=10"],
     lien: "https://androlusstudio.com/fr"
@@ -313,7 +313,7 @@ const REFERENCES = [
   {
     id: "ref-035",
     titre: "Les frères Bouroullec",
-    description: "Ce duo de frères sont très connus, particulièrement pour leur travaux modulables comme les Vases Combinatoires ou ALgues.",
+    description: "Ce duo de frères sont très connus, particulièrement pour leurs travaux modulables comme les Vases Combinatoires ou ALgues.",
     categorie: "OBJET",
     images: ["https://www.bouroullec.com/upload/medias_site/f10_1.bd.combinatoryensemble_medium.jpg", "https://www.bouroullec.com/upload/medias_site/f25_1hd.nuages2mudam_medium.jpg", "https://www.bouroullec.com/upload/medias_site/f82_bouroullecroubaixexhibition_large.jpg"],
     lien: "https://www.bouroullec.com/"
@@ -369,7 +369,7 @@ const REFERENCES = [
   {
     id: "ref-042",
     titre: "Kamonchanok Wongwiboonsat",
-    description: "Issu d'une famille cultivant le riz, c'est après son dîplome, en retournant chez ses parents, que Kamonchanok Wongwiboonsat découvre la vrai valeur du riz et ses qualité comme matériaux versatil pouvant être moulé comme du béton ou transformé en tissu.",
+    description: "Issu d'une famille cultivant le riz, c'est après son diplôme, en retournant chez ses parents, que Kamonchanok Wongwiboonsat découvre la vraie valeur du riz et ses qualités comme matériau versatile pouvant être moulé comme du béton ou transformé en tissu.",
     categorie: "ARTISANAT",
     images: ["https://static.wixstatic.com/media/d87882_c1e8fb2eedc740b484ddfcffd3f6c68b~mv2.jpg/v1/fill/w_1024,h_517,al_c,q_85,enc_avif,quality_auto/1DC0C206-F846-4D11-B456-88ED870B38CF_1_105_c%20copy.jpg", "https://static.wixstatic.com/media/d87882_6ee9310fac20465cb20ccb5a1efa4623~mv2.jpg/v1/fill/w_2538,h_1112,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/new.jpg", "https://static.wixstatic.com/media/d87882_c72d763c1a284453803682ab0f63204d~mv2.jpg/v1/fill/w_780,h_1023,al_c,q_85,enc_avif,quality_auto/332040038_896812334874380_1756535456544383091_n%20copy.jpg"],
     lien: "https://korairlorbor.wixstudio.com/kalbstudio"
@@ -377,7 +377,7 @@ const REFERENCES = [
   {
     id: "ref-043",
     titre: "Stacey Thomas",
-    description: "De gros travaaux d'illustration centré sur la nature dans un univers très doux et rassurant. Elle s'inspire notamment de musée, de la nature, de jeux de société, de l'artisanat et de folklores.",
+    description: "De gros travaux d'illustration centré sur la nature dans un univers très doux et rassurant. Elle s'inspire notamment de musée, de la nature, de jeux de société, de l'artisanat et de folklores.",
     categorie: "ILLUSTRATION",
     images: ["https://cdn.myportfolio.com/4ee1f068-30ca-47e2-819b-10084059651b/8603f733-7418-44fa-9a01-814f9d045647_rw_3840.jpg?h=27e246552c3d44f494d04dc16eb0e249", "https://cdn.myportfolio.com/4ee1f068-30ca-47e2-819b-10084059651b/276e0a08-4a7d-485e-b0ff-2097d928d06a_rw_3840.jpg?h=73e2e2c52705694adcbc3b7058d2aa28", "https://cdn.myportfolio.com/4ee1f068-30ca-47e2-819b-10084059651b/5a73cac4-1ca3-4e64-9c8a-a7c256e62ec0_rw_1920.jpg?h=ee05af8f1c75e632ce022b63caa2195f"],
     lien: "https://staceythomasmakes.com/"
@@ -393,7 +393,7 @@ const REFERENCES = [
   {
     id: "ref-045",
     titre: "Natasha Durley",
-    description: "Natasha Burley a un travail très coloré centré sur la nature avec de grands projets autours des animaux qu'elles réimaginent très colorés.",
+    description: "Natasha Durley a un travail très coloré centré sur la nature avec de grands projets autour des animaux qu'elle réimagine très colorés.",
     categorie: "ILLUSTRATION",
     images: ["https://static.wixstatic.com/media/734fdb_bd0174fcc4b8489a92d596af4fc9bfb6~mv2.gif?dn=tiny-fish-by-Natasha-Durley.gif", "https://static.wixstatic.com/media/734fdb_111afe568cb24bb299baba60c99a37cc~mv2.jpg/v1/fill/w_2000,h_1351,al_t,q_90,enc_avif,quality_auto/734fdb_111afe568cb24bb299baba60c99a37cc~mv2.jpg", "https://static.wixstatic.com/media/734fdb_0e6befd82317497191e587ef0dcae6bc~mv2.jpg?dn=Gobi desert-Habitat collection-art print-sunny beast.jpg"],
     lien: "https://www.natashadurley.com/"
@@ -409,7 +409,7 @@ const REFERENCES = [
   {
     id: "ref-047",
     titre: "La Bonneterie",
-    description: "Ils y plein de trucs à base de bois et de métal, ils se forment à différentes techniques suivant les intervenant.e.s, ils répètent, ils dorment, ils y brassent de la bière, on imprime ou ils floquent des vêtement. Ce lieu devient vraiment un lieu de rencontre et de co-création ressemblant à un fablab.",
+    description: "Il y a plein de trucs à base de bois et de métal, ils se forment à différentes techniques suivant les intervenant.e.s, ils répètent, ils dorment, ils y brassent de la bière, on imprime ou ils floquent des vêtements. Ce lieu devient vraiment un lieu de rencontre et de co-création ressemblant à un fablab.",
     categorie: "SOCIAL",
     images: ["https://freight.cargo.site/w/1500/q/75/i/870976c2a0f373928125ca9dc787f2f42168b52add4878523c39915d33f968a0/DSC_0019.JPG", "https://freight.cargo.site/w/1280/q/75/i/47930c8d37711a0d52a95262c678c992771895c0e706d486180ca3948cd1c032/2021.05.23_sotmoIV_nouveau_monde_brigou_8482.jpg", "https://freight.cargo.site/w/1500/q/75/i/db20a19190e620062821f8bb4e4312a55066a4075708578c1f0c60b3ace4c8f9/IMG-1615.JPG"],
     lien: "https://labonneterie.be/"
@@ -417,7 +417,7 @@ const REFERENCES = [
   {
     id: "ref-048",
     titre: "Milla Vaahtera",
-    description: "Milla Vaahtera est une artiste designer d'objet et artisane du métal dont le travail sculptural mène souvent à la création de luminaires. Mélangeant des forment très organiques et des matériaux froids comme le verre ou le métal, elle crée un réel oxymore au travers de son art.",
+    description: "Milla Vaahtera est une artiste designer d'objet et artisane du métal dont le travail sculptural mène souvent à la création de luminaires. Mélangeant des formes très organiques et des matériaux froids comme le verre ou le métal, elle crée un réel oxymore au travers de son art.",
     categorie: "ARTISANAT",
     images: ["https://freight.cargo.site/w/2000/q/75/i/Z2986211990479386457141951886195/Atlas-ripustus.jpg", "https://freight.cargo.site/w/500/q/75/i/E2354674965894468014159762060147/MillaVaahtera_Nuutajarvi_2024_cHannakaisaPekkala-53.jpg", "https://freight.cargo.site/w/3000/q/75/i/W2369228224263087412694576296819/Milla-Vaahtera---Lintumaa-Installation--Hannakaisa-Pekkala-114.jpg"],
     lien: "https://millavaahtera.com/northern-alps"
