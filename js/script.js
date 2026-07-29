@@ -697,17 +697,14 @@ const RESOURCES = {
     { nom: "HT Fonts", domaine: "htfonts.com", description: "Polices de caractères personnalisées et commerciales, offrant des options de licence flexibles, notamment les licences Libre (Open Source), Propriétaire et Exclusive.", lien: "https://htfonts.com/en/" },
     { nom: "Omnibus", domaine: "omnibus-type.com", description: "Développement collaboratif de polices gratuites.", lien: "hhttps://www.omnibus-type.com/" },
     { nom: "Tunera Type Foundry", domaine: "tunera.xyz", description: "Sélection personnelle de polices de caractères magnifiques, élégantes, punk, professionnelles, inachevées et originales.", lien: "https://www.tunera.xyz/" },   
-
     { nom: "Open Foundry", domaine: "open-foundry.com", description: "Open Foundry est une plateforme gratuite de polices de caractères open source soigneusement sélectionnées, qui met en valeur leur beauté, promeut leurs créateurs et encourage la découverte.", lien: "https://open-foundry.com/" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
-    { nom: "Use & Modify", domaine: "usemodify.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://usemodify.com/ },
+    { nom: "Use & Modify", domaine: "usemodify.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://usemodify.com/" },
     { nom: "Typothèque le 75", domaine: "typotheque.le75.be", description: "La typothèque de l’ESA le 75 collecte une série de caractères typographiques libres et gratuits créés par les étudiant·es de l’orientation Graphisme.", lien: "https://typotheque.le75.be/" },
-
     { nom: "UNCUT", domaine: "uncut.wtf", description: "Polices gratuites pour usage commercial et personnel !", lien: "https://uncut.wtf/" },
     { nom: "SUVA Type Foundy", domaine: "suvatypefoundry.ee", description: "Toutes les polices présentées ici ont été conçues par les étudiants et les professeurs d'EKA GD dans le cadre de divers ateliers, cours et projets. Le site web est mis à jour régulièrement au fur et à mesure de la création de nouvelles polices.", lien: "https://www.suvatypefoundry.ee/" },
-    { nom: "My fffonts", domaine: "myfffonts.accentgrave.net", description: "Des polices de caractères gratuites exceptionnelles, créées par de fantastiques fonderies gratuites. Myfffonts est un logiciel libre, distribué sous licence GNU AFFERO GENERAL PUBLIC LICENSE .", lien: "https://myfffonts.accentgrave.net/ },
+    { nom: "My fffonts", domaine: "myfffonts.accentgrave.net", description: "Des polices de caractères gratuites exceptionnelles, créées par de fantastiques fonderies gratuites. Myfffonts est un logiciel libre, distribué sous licence GNU AFFERO GENERAL PUBLIC LICENSE .", lien: "https://myfffonts.accentgrave.net/" },
     { nom: "Mother Type", domaine: "mother-type.de", description: "Distribution et une collaboration via la licence SIL Open Font License (OFL) . Grâce à cette licence, chacun est libre d'utiliser, de modifier et de distribuer nos polices.", lien: "https://mother-type.de/" },
-
     { nom: "Font Squirrel", domaine: "fontsquirrel.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://www.fontsquirrel.com" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
     { nom: "Font Squirrel", domaine: "fontsquirrel.com", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://www.fontsquirrel.com" },
