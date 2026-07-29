@@ -709,7 +709,6 @@ const RESOURCES = {
     { nom: "Fonderiz", domaine: "fonderiz.fr", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://fonderiz.fr/" },
     { nom: "Velvetyne", domaine: "velvetyne.fr", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://velvetyne.fr/" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Ils ont une démarche éditoriale qui vise à construire un univers typographique engagé politiquement et artistiquement, en collaborant avec des auteurs de tous horizons.", lien: "https://www.fontshare.com" },
-   
     { nom: "Colllectttivo", domaine: "collletttivo.it", description: "La première fonderie typographique numérique italienne open source. Fonctionnant comme un incubateur de caractères et un studio de design, Collletttivo aide les marques, les institutions et les particuliers à exprimer leur potentiel à travers la typographie.", lien: "https://www.collletttivo.it/typefaces },
     { nom: "Bye Bye Binary", domaine: "typotheque.genderfluid.space/", description: "La typothèque Bye Bye Binary rassemble et diffuse une collection de fontes post-binaires. Celles-ci sont téléchargeables librement mais leur usage répond à un ensemble de conditions que nous vous invitons à consulter avant toute utilisation.", lien: "https://typotheque.genderfluid.space/fr" },
     { nom: "Anrt - Fontes", domaine: "anrt-nancy.fr", description: "Créé en 1985 pour «contribuer au développement de la création typographique», L’Atelier national de recherche typographique (ANRT) est un 3e cycle de l’École nationale supérieure d’art et de design (ENSAD) de Nancy.", lien: "https://anrt-nancy.fr/fr/fonts/" },
@@ -719,10 +718,21 @@ const RESOURCES = {
   ],
   mockups: [
     { nom: "Mockup World", domaine: "mockupworld.co", description: "Grande collection de mockups gratuits, packaging, print et digital.", lien: "https://www.mockupworld.co" },
+    { nom: "Pixeden", domaine: "pixeden.com/free", description: "Grande collection de mockups gratuits, packaging, print et digital.", lien: "https://www.pixeden.com/free" },
+    { nom: "Mockups Design", domaine: "mockups-design.com", description: "Grande collection de mockups gratuits, packaging, print et digital en format photoshot.", lien: "https://mockups-design.com/" },
+    { nom: "Shop System", domaine: "shopsystem.tumblr.com", description: "Grande collection de mockups gratuits, packaging, print et digital dans un stylee mélangeant corporate et brutalisme je dirais, je saurais pas m'expliquer..", lien: "https://shopsystem.tumblr.com/" },
+    { nom: "MCC Vision", domaine: "mccvision.de", description: "PAYANT mais très utile pour du mock up de véhicules car ce site propose des fichiers vectoriels de géométraux de véhicules.", lien: "https://www.ccvision.de/fr/index.html" },
+    { nom: "Previewed", domaine: "previewed.app", description: "Le meilleur pour de faux téléphones seuls, je trouve. Ils sont très détaillés.", lien: "https://previewed.app/" },
+    { nom: "Mr. Mockup", domaine: "mrmockup.com", description: "Conseillé par ma pote Manon et depuis, c'est le premier site sur lequel je vais pour éviter de trop chercher.", lien: "https://mrmockup.com/free-mockups/" },
+    { nom: "PlaceIt", domaine: "placeit.net", description: "Me fait un peut trop peur car fait trop cheap.", lien: "https://placeit.net/" },
+    { nom: "Hello Mocku", domaine: "hellomocku.com", description: "Très pro, une ambiance cohérente entre la pluspart des mock ups.", lien: "https://www.hellomocku.com/" },     { nom: "Someother Studio", domaine: "someother.studio", description: "C'est soit assez bien pour être utilisé ou trop cheap looking.", lien: "https://www.someother.studio/" },
+    { nom: "Mockup Maison", domaine: "mockup.maison", description: "Y en a 6 de gratuits mais en vrai y a un truc.", lien: "https://mockup.maison/pages/free-mockups" },
     { nom: "Smartmockups", domaine: "smartmockups.com", description: "Générateur de mockups en ligne, personnalisable dans le navigateur.", lien: "https://smartmockups.com" }
     // ➜ Ajoutez vos sites de mockups ici.
   ],
   images: [
+    { nom: "Snazzy Maps", domaine: "snazzymaps.com", description: "Très pratique pour des cartes détaillées ou non, customisables.", lien: "https://snazzymaps.com/" },
+    { nom: "Map Creator", domaine: "mapcreator.io/vector-maps", description: "Des cartes détaillées en vectoriel.", lien: "https://mapcreator.io/vector-maps/" },
     { nom: "Unsplash", domaine: "unsplash.com", description: "Photographies libres de droits en haute résolution.", lien: "https://unsplash.com" },
     { nom: "Pexels", domaine: "pexels.com", description: "Photos et vidéos gratuites, licence permissive.", lien: "https://www.pexels.com" },
     { nom: "unDraw", domaine: "undraw.co", description: "Illustrations vectorielles open-source, couleur personnalisable.", lien: "https://undraw.co" }
