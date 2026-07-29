@@ -720,12 +720,13 @@ const RESOURCES = {
     { nom: "Mockup World", domaine: "mockupworld.co", description: "Grande collection de mockups gratuits, packaging, print et digital.", lien: "https://www.mockupworld.co" },
     { nom: "Pixeden", domaine: "pixeden.com/free", description: "Grande collection de mockups gratuits, packaging, print et digital.", lien: "https://www.pixeden.com/free" },
     { nom: "Mockups Design", domaine: "mockups-design.com", description: "Grande collection de mockups gratuits, packaging, print et digital en format photoshot.", lien: "https://mockups-design.com/" },
-    { nom: "Shop System", domaine: "shopsystem.tumblr.com", description: "Grande collection de mockups gratuits, packaging, print et digital dans un stylee mélangeant corporate et brutalisme je dirais, je saurais pas m'expliquer..", lien: "https://shopsystem.tumblr.com/" },
+    { nom: "Shop System", domaine: "shopsystem.tumblr.com", description: "Grande collection de mockups gratuits, packaging, print et digital dans un stylee mélangeant corporate et brutalisme je dirais, je saurais pas m'expliquer.", lien: "https://shopsystem.tumblr.com/" },
     { nom: "MCC Vision", domaine: "mccvision.de", description: "PAYANT mais très utile pour du mock up de véhicules car ce site propose des fichiers vectoriels de géométraux de véhicules.", lien: "https://www.ccvision.de/fr/index.html" },
     { nom: "Previewed", domaine: "previewed.app", description: "Le meilleur pour de faux téléphones seuls, je trouve. Ils sont très détaillés.", lien: "https://previewed.app/" },
     { nom: "Mr. Mockup", domaine: "mrmockup.com", description: "Conseillé par ma pote Manon et depuis, c'est le premier site sur lequel je vais pour éviter de trop chercher.", lien: "https://mrmockup.com/free-mockups/" },
     { nom: "PlaceIt", domaine: "placeit.net", description: "Me fait un peut trop peur car fait trop cheap.", lien: "https://placeit.net/" },
-    { nom: "Hello Mocku", domaine: "hellomocku.com", description: "Très pro, une ambiance cohérente entre la pluspart des mock ups.", lien: "https://www.hellomocku.com/" },     { nom: "Someother Studio", domaine: "someother.studio", description: "C'est soit assez bien pour être utilisé ou trop cheap looking.", lien: "https://www.someother.studio/" },
+    { nom: "Hello Mocku", domaine: "hellomocku.com", description: "Très pro, une ambiance cohérente entre la pluspart des mock ups.", lien: "https://www.hellomocku.com/" },
+    { nom: "Someother Studio", domaine: "someother.studio", description: "C'est soit assez bien pour être utilisé ou trop cheap looking.", lien: "https://www.someother.studio/" },
     { nom: "Mockup Maison", domaine: "mockup.maison", description: "Y en a 6 de gratuits mais en vrai y a un truc.", lien: "https://mockup.maison/pages/free-mockups" },
     { nom: "Smartmockups", domaine: "smartmockups.com", description: "Générateur de mockups en ligne, personnalisable dans le navigateur.", lien: "https://smartmockups.com" }
     // ➜ Ajoutez vos sites de mockups ici.
