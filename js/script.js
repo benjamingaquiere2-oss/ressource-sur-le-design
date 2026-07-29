@@ -403,7 +403,7 @@ const REFERENCES = [
     titre: "Owen Davey",
     description: "Travaux d'illustration colorés sur les animaux et la nature principalement, dans un style géométrique.",
     categorie: "ILLUSTRATION",
-    images: ["https://freight.cargo.site/w/400/q/75/i/e4407a61ad48e1e993a7e1201920a21f1c3fffaf9358c45b04ece331411a2d11/Djeco-Tableaux-Cinetique-1-2.jpg", "https://freight.cargo.site/w/400/q/75/i/bbac9d6266404018b88a176b4e57eb5f0a6a621e92d8dc555643945f213ded56/Djeco-Wizard-Box-72.png", "https://freight.cargo.site/w/400/q/75/i/05e9c61148d7b4295ed11c9a58e775cd3d95bb7e4393476b7ae7a46ee3f4c8d9/prt_270x160_1572822705_2x.jpg"],
+    images: ["https://freight.cargo.site/w/400/q/75/i/e4407a61ad48e1e993a7e1201920a21f1c3fffaf9358c45b04ece331411a2d11/Djeco-Tableaux-Cinetique-1-2.jpg", "https://freight.cargo.site/w/900/q/75/i/bbb57aabbd1278cbfd0ae7cde829babd3840e1819810ab2dec964564bacc26fe/Penguin-Thumb-3.jpg", "https://freight.cargo.site/w/400/q/75/i/05e9c61148d7b4295ed11c9a58e775cd3d95bb7e4393476b7ae7a46ee3f4c8d9/prt_270x160_1572822705_2x.jpg"],
     lien: "https://owendavey.com/"
   },
   {
