@@ -179,7 +179,7 @@ const REFERENCES = [
     titre: "Front Design",
     description: "Ce groupe aime expérimenter au travers des logiciels et des possibilités qu'ils nous offre comme par le vase Blow ou les meubles Sketch Furnitures.",
     categorie: "OBJET",
-    images: ["http://www.frontdesign.se/media/project_images/BlowAwayVase_byFront_homepagebanner_wIlWqBU.jpg", "http://www.frontdesign.se/media/project_images/SketchFurniture_byFront_homepagebanner_1880_yxwsxOw.jpg", "http://www.frontdesign.se/media/project_images/DesignBy_byFront_projectimage_1880_6_ReGoBy8.jpg"],
+    images: ["https://www.friedmanbenda.com/wp-content/uploads/2021/09/Front_Sketch-Chair-Rectangualr-Back-White_2000x1500-1024x768.jpg", "https://moroso.it/app/uploads/2014/01/cover1-4.jpg", "https://moroso.it/app/uploads/2026/05/Product-Diorama-Slider.jpg"],
     lien: "http://www.frontdesign.se/"
   },
   {
@@ -187,7 +187,7 @@ const REFERENCES = [
     titre: "Terrains Vagues",
     description: "Un atelier graphique faisant de très gros travaux colorés de communication au travers de multiples médiums.",
     categorie: "GRAPHISME",
-    images: ["https://terrainsvagues.fr/wp-content/uploads/2023/06/GIF%E2%80%94KOOMA.mp4", "https://terrainsvagues.fr/wp-content/uploads/2022/11/MOCKUP-catalogue4-1024x655.jpg", "https://terrainsvagues.fr/wp-content/uploads/2022/01/06-voiceofthings-1024x683.png"],
+    images: ["https://terrainsvagues.fr/wp-content/uploads/2023/06/logo1-1024x513.png", "https://terrainsvagues.fr/wp-content/uploads/2022/11/MOCKUP-catalogue4-1024x655.jpg", "https://terrainsvagues.fr/wp-content/uploads/2022/01/06-voiceofthings-1024x683.png"],
     lien: "https://terrainsvagues.fr/"
   },
   {
@@ -283,7 +283,7 @@ const REFERENCES = [
     titre: "Distaff Studio",
     description: "Gros travail graphique et typographique allant de la simple affiche, à la signalétique dans les musées en passant par de l'édition. Elles travaillent dans un univers baignée dans la culture et l'art.",
     categorie: "GRAPHISME",
-    images: ["https://distaff.studio/media/pages/media/e25f16725c-1716975566/HYBRIS_Startseite.mp4", "https://distaff.studio/media/pages/media/3629aa3e23-1707304675/fyv-kindertransport-poster-big-1-2880x-q84.webp", "https://distaff.studio/media/pages/media/81523962f8-1709463530/specology-1-x2200-q84.webp"],
+    images: ["https://distaff.studio/media/pages/media/881fefb70d-1717564554/quecksilbergarten-0-2880x-q84.webp", "https://distaff.studio/media/pages/media/3629aa3e23-1707304675/fyv-kindertransport-poster-big-1-2880x-q84.webp", "https://distaff.studio/media/pages/media/81523962f8-1709463530/specology-1-x2200-q84.webp"],
     lien: "https://distaff.studio/"
   },
   {
@@ -307,7 +307,7 @@ const REFERENCES = [
     titre: "Androlus Studio",
     description: "Pauline Androlus crée des produits accès sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
     categorie: "OBJET",
-    images: ["https://androlusstudio.com/project/fr/cintre-25--baladeuse-recto-verso", "https://androlusstudio.com/project/fr/kendo--verre-de-nuit", "https://androlusstudio.com/project/fr/inlandsis--organiseur"],
+    images: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9gMIQHblMsT9Rl41CKSgrOPE1J5P9uArn0U-tpVnxA&s=10", "https://www.ladn.eu/wp-content/uploads/2022/07/collection-vaisselle-linge-table-malvoyants-aveugles.5.png", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28MOioyW9nP3r1TwOPGtYd7KZBMbT4XVyFDfFSk1BNA&s=10"],
     lien: "https://androlusstudio.com/fr"
   },
   {
