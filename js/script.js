@@ -44,8 +44,6 @@ const REFERENCES = [
     lien: "https://superterrain.fr"
   },
 
-/**  <img src="images/logo/logo-bde-baker.png" alt="Logo BDE Baker"> */
-   
   {
     id: "ref-002",
     titre: "Diane Bovin atelier",
@@ -209,7 +207,7 @@ const REFERENCES = [
   {
     id: "ref-022",
     titre: "Tessa Silva",
-    description: "Cette créatrice mélange ses convictions et son art pour en faire des objets politique portant ainsi sa voix mais aussi celles des animaux exploités.",
+    description: "Cette créatrice mélange ses convictions et son art pour en faire des objets politiques portant ainsi sa voix mais aussi celles des animaux exploités.",
     categorie: "ARTISANAT",
     images: ["https://images.squarespace-cdn.com/content/v1/53ce5eeae4b09f1cf081b990/c702eff9-c1c0-42f9-a666-eb3997dc64fb/collect+2026+exhibitions.jpg?format=1500w", "https://images.squarespace-cdn.com/content/v1/53ce5eeae4b09f1cf081b990/66248467-5d28-4a3a-ad8a-d32585f9d2fb/%E2%80%98Feminised+Protein+Loop%E2%80%99+sculpture%2C+off+white%2C+skimmed+milk%2C+Tessa+Silva.JPG?format=750w", "https://images.squarespace-cdn.com/content/v1/53ce5eeae4b09f1cf081b990/1731176152994-YOXSIQPW41R2HPIDWRSZ/IMG_0059.JPG?format=750w"],
     lien: "https://www.tessasilva.com/"
@@ -289,7 +287,7 @@ const REFERENCES = [
   {
     id: "ref-032",
     titre: "SUPERCONTINENT VE GmbH",
-    description: "Ce studio a une esthétique très puissante qui a su séduire de très grande marque pour qu'ils leur réalisent des motions et cinématiques profondes.",
+    description: "Ce studio a une esthétique très puissante qui a su séduire de très grandes marques pour qu'ils leur réalisent des motions et cinématiques profondes.",
     categorie: "OBJET",
     images: ["https://spc.co/wp-content/uploads/2023/08/compressed_0006_Doja-Cat-Paint-The-Town-Red-Official-Video-0026-1600x900.jpg", "https://spc.co/wp-content/uploads/2024/07/Kendrick-Lamar-Not-Like-Us-0016-aspect-ratio-16-9.png", "https://spc.co/wp-content/uploads/2023/10/Teezo-Touchdown-Impossible-Official-Video-0006-aspect-ratio-16-9.png"],
     lien: "https://spc.co/#works"
@@ -305,7 +303,7 @@ const REFERENCES = [
   {
     id: "ref-034",
     titre: "Androlus Studio",
-    description: "Pauline Androlus crée des produits axés sur la matière même quand les projets ne sont pas dans l'objectifs d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
+    description: "Pauline Androlus crée des produits axés sur la matière même quand les projets ne sont pas dans l'objectif d'aider les personnes aveugles ou mal-voyantes comme le projet Tact.",
     categorie: "OBJET",
     images: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9gMIQHblMsT9Rl41CKSgrOPE1J5P9uArn0U-tpVnxA&s=10", "https://www.ladn.eu/wp-content/uploads/2022/07/collection-vaisselle-linge-table-malvoyants-aveugles.5.png", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28MOioyW9nP3r1TwOPGtYd7KZBMbT4XVyFDfFSk1BNA&s=10"],
     lien: "https://androlusstudio.com/fr"
@@ -321,7 +319,7 @@ const REFERENCES = [
   {
     id: "ref-036",
     titre: "Maarten Baas",
-    description: "Son travail, à la limite entre art plastique et design, mélangeant installations, artisanat et performance.",
+    description: "Son travail, à la limite entre art plastique et design, mélange installations, artisanat et performance.",
     categorie: "ARTS PLASTIQUES",
     images: ["https://maartenbaas.com/cdn/shop/products/210922123404_n_mob.jpg?v=1675862653&width=720", "https://maartenbaas.com/cdn/shop/products/Pag-026A_Clay-chairs_credits-Marielle-Leenders.jpg?v=1676305395&width=720", "https://maartenbaas.com/cdn/shop/products/5e6d975ae5e6871ac25a09b1384f50e0j.jpg?v=1696358467&width=720"],
     lien: "https://maartenbaas.com/"
@@ -433,7 +431,7 @@ const REFERENCES = [
   {
     id: "ref-050",
     titre: "Studio Samuel Tomatis",
-    description: "La Bretagne et son écosystème est la base toute sa réflexion autour des matériaux que Samuel Tomatis et son équipe conçoivent grâce aux algues qui pullulent sur les plages de Bretagne.",
+    description: "La Bretagne et son écosystème est la base de toute sa réflexion autour des matériaux que Samuel Tomatis et son équipe conçoivent grâce aux algues qui pullulent sur les plages de Bretagne.",
     categorie: "ARTISANAT",
     images: ["https://www.studiosamueltomatis.com/media/pages/projects/contenants/6fcfed0f57-1784873209/contenants-alimentaire-22-studio-samuel-tomatis-design-materiaux-algue-alg-seaweed-biomaterial-1200x.webp", "https://www.studiosamueltomatis.com/media/pages/projects/vannerie/6f17d21cf3-1784873155/vannerie-1-studio-samuel-tomatis-design-materiaux-algue-alg-seaweed-biomaterial.jpg", "https://www.studiosamueltomatis.com/media/pages/projects/papier/dd4d1149ac-1784873196/papier-1-studio-samuel-tomatis-design-materiaux-algue-alg-seaweed-biomaterial.jpg"],
     lien: "https://www.studiosamueltomatis.com/"
@@ -695,7 +693,7 @@ const RESOURCES = {
     { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
     { nom: "NBR Type", domaine: "noirblancrouge.com", description: "Polices de caractères commerciales et développent des familles open source. Pensent que la qualité typographique doit être accessible à tous.", lien: "https://noirblancrouge.com/" },
     { nom: "HT Fonts", domaine: "htfonts.com", description: "Polices de caractères personnalisées et commerciales, offrant des options de licence flexibles, notamment les licences Libre (Open Source), Propriétaire et Exclusive.", lien: "https://htfonts.com/en/" },
-    { nom: "Omnibus", domaine: "omnibus-type.com", description: "Développement collaboratif de polices gratuites.", lien: "hhttps://www.omnibus-type.com/" },
+    { nom: "Omnibus", domaine: "omnibus-type.com", description: "Développement collaboratif de polices gratuites.", lien: "https://www.omnibus-type.com/" },
     { nom: "Tunera Type Foundry", domaine: "tunera.xyz", description: "Sélection personnelle de polices de caractères magnifiques, élégantes, punk, professionnelles, inachevées et originales.", lien: "https://www.tunera.xyz/" },   
     { nom: "Open Foundry", domaine: "open-foundry.com", description: "Open Foundry est une plateforme gratuite de polices de caractères open source soigneusement sélectionnées, qui met en valeur leur beauté, promeut leurs créateurs et encourage la découverte.", lien: "https://open-foundry.com/" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://www.fontshare.com" },
@@ -709,7 +707,7 @@ const RESOURCES = {
     { nom: "Fonderiz", domaine: "fonderiz.fr", description: "Polices modernes et soignées, publiées par Indian Type Foundry.", lien: "https://fonderiz.fr/" },
     { nom: "Velvetyne", domaine: "velvetyne.fr", description: "Polices gratuites pour usage commercial, avec kit de webfonts.", lien: "https://velvetyne.fr/" },
     { nom: "Fontshare", domaine: "fontshare.com", description: "Ils ont une démarche éditoriale qui vise à construire un univers typographique engagé politiquement et artistiquement, en collaborant avec des auteurs de tous horizons.", lien: "https://www.fontshare.com" },
-    { nom: "Colllectttivo", domaine: "collletttivo.it", description: "La première fonderie typographique numérique italienne open source. Fonctionnant comme un incubateur de caractères et un studio de design, Collletttivo aide les marques, les institutions et les particuliers à exprimer leur potentiel à travers la typographie.", lien: "https://www.collletttivo.it/typefaces },
+    { nom: "Colllectttivo", domaine: "collletttivo.it", description: "La première fonderie typographique numérique italienne open source. Fonctionnant comme un incubateur de caractères et un studio de design, Collletttivo aide les marques, les institutions et les particuliers à exprimer leur potentiel à travers la typographie.", lien: "https://www.collletttivo.it/typefaces" },
     { nom: "Bye Bye Binary", domaine: "typotheque.genderfluid.space/", description: "La typothèque Bye Bye Binary rassemble et diffuse une collection de fontes post-binaires. Celles-ci sont téléchargeables librement mais leur usage répond à un ensemble de conditions que nous vous invitons à consulter avant toute utilisation.", lien: "https://typotheque.genderfluid.space/fr" },
     { nom: "Anrt - Fontes", domaine: "anrt-nancy.fr", description: "Créé en 1985 pour «contribuer au développement de la création typographique», L’Atelier national de recherche typographique (ANRT) est un 3e cycle de l’École nationale supérieure d’art et de design (ENSAD) de Nancy.", lien: "https://anrt-nancy.fr/fr/fonts/" },
     { nom: "Death of Typography", domaine: "deathoftypography.com", description: "Ils sont un jeune collectif typographique singapourien – ils pratiquent, recherchent et explorent la typographie à travers la recherche créative et la collaboration.", lien: "https://deathoftypography.com/typefaces/" },
@@ -720,12 +718,12 @@ const RESOURCES = {
     { nom: "Mockup World", domaine: "mockupworld.co", description: "Grande collection de mockups gratuits, packaging, print et digital.", lien: "https://www.mockupworld.co" },
     { nom: "Pixeden", domaine: "pixeden.com/free", description: "Grande collection de mockups gratuits, packaging, print et digital.", lien: "https://www.pixeden.com/free" },
     { nom: "Mockups Design", domaine: "mockups-design.com", description: "Grande collection de mockups gratuits, packaging, print et digital en format photoshot.", lien: "https://mockups-design.com/" },
-    { nom: "Shop System", domaine: "shopsystem.tumblr.com", description: "Grande collection de mockups gratuits, packaging, print et digital dans un stylee mélangeant corporate et brutalisme je dirais, je saurais pas m'expliquer.", lien: "https://shopsystem.tumblr.com/" },
+    { nom: "Shop System", domaine: "shopsystem.tumblr.com", description: "Grande collection de mockups gratuits, packaging, print et digital dans un style mélangeant corporate et brutalisme je dirais, je saurais pas m'expliquer.", lien: "https://shopsystem.tumblr.com/" },
     { nom: "MCC Vision", domaine: "mccvision.de", description: "PAYANT mais très utile pour du mock up de véhicules car ce site propose des fichiers vectoriels de géométraux de véhicules.", lien: "https://www.ccvision.de/fr/index.html" },
     { nom: "Previewed", domaine: "previewed.app", description: "Le meilleur pour de faux téléphones seuls, je trouve. Ils sont très détaillés.", lien: "https://previewed.app/" },
     { nom: "Mr. Mockup", domaine: "mrmockup.com", description: "Conseillé par ma pote Manon et depuis, c'est le premier site sur lequel je vais pour éviter de trop chercher.", lien: "https://mrmockup.com/free-mockups/" },
-    { nom: "PlaceIt", domaine: "placeit.net", description: "Me fait un peut trop peur car fait trop cheap.", lien: "https://placeit.net/" },
-    { nom: "Hello Mocku", domaine: "hellomocku.com", description: "Très pro, une ambiance cohérente entre la pluspart des mock ups.", lien: "https://www.hellomocku.com/" },
+    { nom: "PlaceIt", domaine: "placeit.net", description: "Me fait un peu trop peur car fait trop cheap.", lien: "https://placeit.net/" },
+    { nom: "Hello Mocku", domaine: "hellomocku.com", description: "Très pro, une ambiance cohérente entre la plupart des mock ups.", lien: "https://www.hellomocku.com/" },
     { nom: "Someother Studio", domaine: "someother.studio", description: "C'est soit assez bien pour être utilisé ou trop cheap looking.", lien: "https://www.someother.studio/" },
     { nom: "Mockup Maison", domaine: "mockup.maison", description: "Y en a 6 de gratuits mais en vrai y a un truc.", lien: "https://mockup.maison/pages/free-mockups" },
     { nom: "Smartmockups", domaine: "smartmockups.com", description: "Générateur de mockups en ligne, personnalisable dans le navigateur.", lien: "https://smartmockups.com" }
